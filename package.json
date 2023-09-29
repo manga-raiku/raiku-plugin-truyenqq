@@ -1,0 +1,42 @@
+{
+  "name": "ex-plugin",
+  "pluginName": "Plugin name",
+  "version": "1.0.0",
+  "description": "Description for plugin.",
+  "author": "Author Example <example@example.com>",
+  "homepage": "https://github.com/manga-raiku",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier -w ./src",
+    "pretit": "prettier ./src",
+    "lint": "eslint --ext .js,.ts ./ --fix",
+    "test": "vitest",
+    "dev": "vite",
+    "build": "tsx ./scripts/build.ts",
+    "typing": "tsc --noEmit",
+    "ci": "pnpm format && pnpm lint && pnpm typing",
+    "release": "bumpp"
+  },
+  "keywords": [],
+  "license": "LGPL-3.0-or-later",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "client-ext-animevsub-helper": "^1.0.4",
+    "raiku-pgs": "^0.0.3"
+  },
+  "devDependencies": {
+    "@tachibana-shin/eslint-config": "^1.1.1",
+    "@types/node": "^20.7.2",
+    "bumpp": "^9.2.0",
+    "esbuild": "^0.19.2",
+    "esbuild-runner": "^2.2.2",
+    "eslint": "^8.50.0",
+    "happy-dom": "^12.2.0",
+    "prettier": "^3.0.3",
+    "tsx": "^3.12.7",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9",
+    "vitest": "^0.34.4",
+    "vue-router": "^4.2.4"
+  }
+}

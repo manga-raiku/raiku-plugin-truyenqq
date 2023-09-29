@@ -1,0 +1,9 @@
+{
+  "extends": "@tachibana-shin/eslint-config",
+  "rules": {
+    "n/no-unpublished-import" : "off",
+    "functional/prefer-immutable-types": "off",
+    "functional/no-classes": "off",
+    "no-undef": "off"
+  }
+}
