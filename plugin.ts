@@ -54,7 +54,7 @@ class TruyenQQ implements API {
 
   async getComicComments(
     comicId: number,
-    orderByNews: boolean,
+    _orderByNews: boolean,
     chapterId = -1,
     parentId = 0,
     page: number,
@@ -67,7 +67,7 @@ class TruyenQQ implements API {
     return mangaList(mangaId)
   }
 
-  async searchQuickly(keyword: string, page: number) {
+  async searchQuickly(keyword: string, _page: number) {
     return presearch(keyword)
   }
 
