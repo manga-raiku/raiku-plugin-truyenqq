@@ -3,6 +3,8 @@ import { definePackage } from "raiku-pgs/plugin"
 
 import favicon from "./favicon.png?inline"
 
+export const sourceId = id
+
 export const meta = definePackage({
   id,
   name,

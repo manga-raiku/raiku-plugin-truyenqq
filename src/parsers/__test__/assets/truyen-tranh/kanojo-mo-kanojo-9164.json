@@ -1,0 +1,2173 @@
+{
+  "name": "Kanojo Mo Kanojo",
+  "othername": "Bắt cá hai tay!",
+  "manga_id": "9164",
+  "updated_at": 1687885200000,
+  "image": "https://i.truyenvua.com/ebook/190x247/kanojo-mo-kanojo_1677839672.jpg?gt=hdfgdfg&mobile=2",
+  "author": [
+    {
+      "name": "Hiroyuki",
+      "route": {
+        "name": "author",
+        "params": { "sourceId": "truyenqqq", "type": "hiroyuki-830.html" },
+        "query": {}
+      }
+    }
+  ],
+  "status": "Đang Cập Nhật",
+  "genres": [
+    {
+      "name": "Comedy",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "comedy-28.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Shounen",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "shounen-31.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Romance",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "romance-36.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "School Life",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "school-life-37.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Slice Of Life",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "slice-of-life-46.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Harem",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "harem-47.html" },
+        "query": {}
+      }
+    }
+  ],
+  "views": 606087,
+  "rate": { "cur": 0, "max": 0, "count": 0 },
+  "follows": 3664,
+  "likes": 1054,
+  "description": "Một thanh niên vừa mới có bạn gái, thì bỗng dưng lòi đâu ra một bé nữa cũng đến tỏ tình  và như bao aura main nam khác, thì thanh niên làm gì thì các bác cũng đoán ra được rồi đấy",
+  "chapters": [
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "141"
+        }
+      },
+      "id": "141",
+      "name": "141",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "140"
+        }
+      },
+      "id": "140",
+      "name": "140",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "139"
+        }
+      },
+      "id": "139",
+      "name": "139",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "138"
+        }
+      },
+      "id": "138",
+      "name": "138",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "137"
+        }
+      },
+      "id": "137",
+      "name": "137",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "136"
+        }
+      },
+      "id": "136",
+      "name": "136",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "135"
+        }
+      },
+      "id": "135",
+      "name": "135",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "134"
+        }
+      },
+      "id": "134",
+      "name": "134",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "133"
+        }
+      },
+      "id": "133",
+      "name": "133",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "132"
+        }
+      },
+      "id": "132",
+      "name": "132",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "131"
+        }
+      },
+      "id": "131",
+      "name": "131",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "130"
+        }
+      },
+      "id": "130",
+      "name": "130",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "129"
+        }
+      },
+      "id": "129",
+      "name": "129",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "128"
+        }
+      },
+      "id": "128",
+      "name": "128",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "127"
+        }
+      },
+      "id": "127",
+      "name": "127",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "126"
+        }
+      },
+      "id": "126",
+      "name": "126",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "125"
+        }
+      },
+      "id": "125",
+      "name": "125",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "124"
+        }
+      },
+      "id": "124",
+      "name": "124",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "123"
+        }
+      },
+      "id": "123",
+      "name": "123",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "122"
+        }
+      },
+      "id": "122",
+      "name": "122",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "121"
+        }
+      },
+      "id": "121",
+      "name": "121",
+      "updated_at": 1687885200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "120"
+        }
+      },
+      "id": "120",
+      "name": "120",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "119"
+        }
+      },
+      "id": "119",
+      "name": "119",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "118"
+        }
+      },
+      "id": "118",
+      "name": "118",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "117"
+        }
+      },
+      "id": "117",
+      "name": "117",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "116"
+        }
+      },
+      "id": "116",
+      "name": "116",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "115"
+        }
+      },
+      "id": "115",
+      "name": "115",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "114"
+        }
+      },
+      "id": "114",
+      "name": "114",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "113"
+        }
+      },
+      "id": "113",
+      "name": "113",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "112"
+        }
+      },
+      "id": "112",
+      "name": "112",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "111"
+        }
+      },
+      "id": "111",
+      "name": "111",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "110"
+        }
+      },
+      "id": "110",
+      "name": "110",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "109"
+        }
+      },
+      "id": "109",
+      "name": "109",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "108"
+        }
+      },
+      "id": "108",
+      "name": "108",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "107"
+        }
+      },
+      "id": "107",
+      "name": "107",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "106"
+        }
+      },
+      "id": "106",
+      "name": "106",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "105"
+        }
+      },
+      "id": "105",
+      "name": "105",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "104"
+        }
+      },
+      "id": "104",
+      "name": "104",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "103"
+        }
+      },
+      "id": "103",
+      "name": "103",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "102"
+        }
+      },
+      "id": "102",
+      "name": "102",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "101"
+        }
+      },
+      "id": "101",
+      "name": "101",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164-chap-100-5"
+        }
+      },
+      "name": "100.5",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "100"
+        }
+      },
+      "id": "100",
+      "name": "100",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "99"
+        }
+      },
+      "id": "99",
+      "name": "99",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "98"
+        }
+      },
+      "id": "98",
+      "name": "98",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "97"
+        }
+      },
+      "id": "97",
+      "name": "97",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "96"
+        }
+      },
+      "id": "96",
+      "name": "96",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "95"
+        }
+      },
+      "id": "95",
+      "name": "95",
+      "updated_at": 1687971600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "94"
+        }
+      },
+      "id": "94",
+      "name": "94",
+      "updated_at": 1687971600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "93"
+        }
+      },
+      "id": "93",
+      "name": "93",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "92"
+        }
+      },
+      "id": "92",
+      "name": "92",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "91"
+        }
+      },
+      "id": "91",
+      "name": "91",
+      "updated_at": 1687798800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "90"
+        }
+      },
+      "id": "90",
+      "name": "90",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "89"
+        }
+      },
+      "id": "89",
+      "name": "89",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "88"
+        }
+      },
+      "id": "88",
+      "name": "88",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "87"
+        }
+      },
+      "id": "87",
+      "name": "87",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "86"
+        }
+      },
+      "id": "86",
+      "name": "86",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "85"
+        }
+      },
+      "id": "85",
+      "name": "85",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "84"
+        }
+      },
+      "id": "84",
+      "name": "84",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "83"
+        }
+      },
+      "id": "83",
+      "name": "83",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "82"
+        }
+      },
+      "id": "82",
+      "name": "82",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "81"
+        }
+      },
+      "id": "81",
+      "name": "81",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "80"
+        }
+      },
+      "id": "80",
+      "name": "80",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "79"
+        }
+      },
+      "id": "79",
+      "name": "79",
+      "updated_at": 1686330000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "78"
+        }
+      },
+      "id": "78",
+      "name": "78",
+      "updated_at": 1686243600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "78"
+        }
+      },
+      "id": "78",
+      "name": "78",
+      "updated_at": 1686243600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "77"
+        }
+      },
+      "id": "77",
+      "name": "77",
+      "updated_at": 1686243600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "76"
+        }
+      },
+      "id": "76",
+      "name": "76",
+      "updated_at": 1686243600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "75"
+        }
+      },
+      "id": "75",
+      "name": "75",
+      "updated_at": 1686157200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "74"
+        }
+      },
+      "id": "74",
+      "name": "74",
+      "updated_at": 1686157200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "73"
+        }
+      },
+      "id": "73",
+      "name": "73",
+      "updated_at": 1686070800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "72"
+        }
+      },
+      "id": "72",
+      "name": "72",
+      "updated_at": 1686070800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "71"
+        }
+      },
+      "id": "71",
+      "name": "71",
+      "updated_at": 1686070800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "70"
+        }
+      },
+      "id": "70",
+      "name": "70",
+      "updated_at": 1686070800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "69"
+        }
+      },
+      "id": "69",
+      "name": "69",
+      "updated_at": 1679158800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "68"
+        }
+      },
+      "id": "68",
+      "name": "68",
+      "updated_at": 1678381200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "67"
+        }
+      },
+      "id": "67",
+      "name": "67",
+      "updated_at": 1677776400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "66"
+        }
+      },
+      "id": "66",
+      "name": "66",
+      "updated_at": 1676394000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "65"
+        }
+      },
+      "id": "65",
+      "name": "65",
+      "updated_at": 1675270800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "64"
+        }
+      },
+      "id": "64",
+      "name": "64",
+      "updated_at": 1667062800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "63"
+        }
+      },
+      "id": "63",
+      "name": "63",
+      "updated_at": 1666717200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "62"
+        }
+      },
+      "id": "62",
+      "name": "62",
+      "updated_at": 1663347600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "61"
+        }
+      },
+      "id": "61",
+      "name": "61",
+      "updated_at": 1663002000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "60"
+        }
+      },
+      "id": "60",
+      "name": "60",
+      "updated_at": 1662138000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "59"
+        }
+      },
+      "id": "59",
+      "name": "59",
+      "updated_at": 1660928400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "58"
+        }
+      },
+      "id": "58",
+      "name": "58",
+      "updated_at": 1658077200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "57"
+        }
+      },
+      "id": "57",
+      "name": "57",
+      "updated_at": 1658077200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "56"
+        }
+      },
+      "id": "56",
+      "name": "56",
+      "updated_at": 1653843600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "55"
+        }
+      },
+      "id": "55",
+      "name": "55",
+      "updated_at": 1650733200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "54"
+        }
+      },
+      "id": "54",
+      "name": "54",
+      "updated_at": 1649005200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "53"
+        }
+      },
+      "id": "53",
+      "name": "53",
+      "updated_at": 1647363600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "52"
+        }
+      },
+      "id": "52",
+      "name": "52",
+      "updated_at": 1646672400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "51"
+        }
+      },
+      "id": "51",
+      "name": "51",
+      "updated_at": 1645981200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "50"
+        }
+      },
+      "id": "50",
+      "name": "50",
+      "updated_at": 1645376400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "49"
+        }
+      },
+      "id": "49",
+      "name": "49",
+      "updated_at": 1645030800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "48"
+        }
+      },
+      "id": "48",
+      "name": "48",
+      "updated_at": 1642611600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "47"
+        }
+      },
+      "id": "47",
+      "name": "47",
+      "updated_at": 1642093200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "46"
+        }
+      },
+      "id": "46",
+      "name": "46",
+      "updated_at": 1641315600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "45"
+        }
+      },
+      "id": "45",
+      "name": "45",
+      "updated_at": 1641315600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "44"
+        }
+      },
+      "id": "44",
+      "name": "44",
+      "updated_at": 1640797200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "43"
+        }
+      },
+      "id": "43",
+      "name": "43",
+      "updated_at": 1638118800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "42"
+        }
+      },
+      "id": "42",
+      "name": "42",
+      "updated_at": 1637859600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "41"
+        }
+      },
+      "id": "41",
+      "name": "41",
+      "updated_at": 1637168400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "40"
+        }
+      },
+      "id": "40",
+      "name": "40",
+      "updated_at": 1636304400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "39"
+        }
+      },
+      "id": "39",
+      "name": "39",
+      "updated_at": 1632675600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "34"
+        }
+      },
+      "id": "34",
+      "name": "34",
+      "updated_at": 1633712400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "33"
+        }
+      },
+      "id": "33",
+      "name": "33",
+      "updated_at": 1633712400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "32"
+        }
+      },
+      "id": "32",
+      "name": "32",
+      "updated_at": 1633712400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "31"
+        }
+      },
+      "id": "31",
+      "name": "31",
+      "updated_at": 1633712400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "30"
+        }
+      },
+      "id": "30",
+      "name": "30",
+      "updated_at": 1631034000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "29"
+        }
+      },
+      "id": "29",
+      "name": "29",
+      "updated_at": 1629133200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "28"
+        }
+      },
+      "id": "28",
+      "name": "28",
+      "updated_at": 1629046800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "27"
+        }
+      },
+      "id": "27",
+      "name": "27",
+      "updated_at": 1628874000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "26"
+        }
+      },
+      "id": "26",
+      "name": "26",
+      "updated_at": 1628182800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "25"
+        }
+      },
+      "id": "25",
+      "name": "25",
+      "updated_at": 1627750800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "24"
+        }
+      },
+      "id": "24",
+      "name": "24",
+      "updated_at": 1627750800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "23"
+        }
+      },
+      "id": "23",
+      "name": "23",
+      "updated_at": 1626454800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "22"
+        }
+      },
+      "id": "22",
+      "name": "22",
+      "updated_at": 1626282000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "21"
+        }
+      },
+      "id": "21",
+      "name": "21",
+      "updated_at": 1625763600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "20"
+        }
+      },
+      "id": "20",
+      "name": "20",
+      "updated_at": 1625763600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "19"
+        }
+      },
+      "id": "19",
+      "name": "19",
+      "updated_at": 1625763600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "18"
+        }
+      },
+      "id": "18",
+      "name": "18",
+      "updated_at": 1625763600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "17"
+        }
+      },
+      "id": "17",
+      "name": "17",
+      "updated_at": 1620320400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "16"
+        }
+      },
+      "id": "16",
+      "name": "16",
+      "updated_at": 1619283600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "15"
+        }
+      },
+      "id": "15",
+      "name": "15",
+      "updated_at": 1618851600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "14"
+        }
+      },
+      "id": "14",
+      "name": "14",
+      "updated_at": 1605978000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "13"
+        }
+      },
+      "id": "13",
+      "name": "13",
+      "updated_at": 1605546000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "12"
+        }
+      },
+      "id": "12",
+      "name": "12",
+      "updated_at": 1605459600000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "11"
+        }
+      },
+      "id": "11",
+      "name": "11",
+      "updated_at": 1602954000000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "10"
+        }
+      },
+      "id": "10",
+      "name": "10",
+      "updated_at": 1592413200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "9"
+        }
+      },
+      "id": "9",
+      "name": "9",
+      "updated_at": 1590944400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "8"
+        }
+      },
+      "id": "8",
+      "name": "8",
+      "updated_at": 1589821200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "7"
+        }
+      },
+      "id": "7",
+      "name": "7",
+      "updated_at": 1588525200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "6"
+        }
+      },
+      "id": "6",
+      "name": "6",
+      "updated_at": 1587142800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "5"
+        }
+      },
+      "id": "5",
+      "name": "5",
+      "updated_at": 1586192400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "4"
+        }
+      },
+      "id": "4",
+      "name": "4",
+      "updated_at": 1585328400000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "3"
+        }
+      },
+      "id": "3",
+      "name": "3",
+      "updated_at": 1584118800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "2"
+        }
+      },
+      "id": "2",
+      "name": "2",
+      "updated_at": 1584118800000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kanojo-mo-kanojo-9164",
+          "chap": "1"
+        }
+      },
+      "id": "1",
+      "name": "1",
+      "updated_at": 1584118800000,
+      "views": null
+    }
+  ],
+  "comments": [
+    {
+      "id": "3086866",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1677855827.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Onelemon",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> nh&#xe2;n d&#x1ecb;p 2k5 thi &#x111;&#x1ea1;i h&#x1ecd;c ad cho m&#x1b0;a chap lu&#xf4;n qu&#xe1; ph&#xea;",
+      "like": 1,
+      "dislike": 0,
+      "created_at": 1696158640786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3086010",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1676696331.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Cherry Yozakura",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> Ng&#xe0;i l&#xe0; 1 c&#xe1;i g&#xec; &#x111;&#xf3; ko th&#x1ec3; n&#xf3;i &#x111;c . Ng&#xe0;i ko l&#xe0; loser (1 l&#xfa;c 4 em th&#xec; c&#xf2;n loser g&#xec; n&#x1eef;a), m&#xe0; cx ko l&#xe0; chad (h&#x1edf; t&#xed; l&#xe0; rung &#x111;&#x1ed9;ng, ch&#x1ea3; bi&#x1ebf;t c&#xf3; th&#xea;m em n&#xe0;o kh&#xf4;ng). Th&#xf4;i th&#xec; c&#x1ee9; g&#x1ecd;i ng&#xe0;i l&#xe0; Naoya",
+      "like": 1,
+      "dislike": 0,
+      "created_at": 1696158640786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3085523",
+      "author": {
+        "avatar": "https://st.truyenqqq.vn/template/frontend/images/noavatar.png",
+        "name": "Thính giả",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://1.bp.blogspot.com/-sT8MA3VD-c4/TxaJpxC07wI/AAAAAAAAFWo/WFdTFlnckww/Upanhso.tk-13.gif\" alt=\"emo\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://1.bp.blogspot.com/-sT8MA3VD-c4/TxaJpxC07wI/AAAAAAAAFWo/WFdTFlnckww/Upanhso.tk-13.gif\" alt=\"emo\"><img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://2.bp.blogspot.com/-YCjo-k--L9I/TxaJq9_9yNI/AAAAAAAAFWw/XkB-5-yZhys/Upanhso.tk-14.gif\" alt=\"emo\">",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1696158640786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3084245",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1640663113.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Domestic Otaku",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> hmm... Kh&#xf4;ng tin n&#x1ed5;i m&#xec;nh d&#xe0;nh th&#x1edd;i gian &#x111;&#x1ecd;c c&#xe1;i truy&#x1ec7;n x&#xe0;m loz con ch&#x1ed3;n n&#xe0;y...<br>Th&#x1eb1;ng &#x111;&#x1ef1;c c&#x1eaf;t trym &#x111;i cho m&#x1ea5;y con n&#x1eef; yuri v&#x1edb;i nhau l&#xe0; xong ch&#x1edb; c&#xf3; g&#xec; kh&#xf3;.",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1696072240786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3084016",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1681745917.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Souf Izu Graii",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> Vcl",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1696072240786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3083574",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1667309491.jpg?gt=hdfgdfg&mobile=2",
+        "name": "marin",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://4.bp.blogspot.com/-678pJfhjGus/TxaJmHNhXUI/AAAAAAAAFWI/uVL_1LLkdKc/Upanhso.tk-1.gif\" alt=\"emo\">",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1696072240786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3083236",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1676696331.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Cherry Yozakura",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> V&#xe3;i loz th&#xea;m 10 chap n&#x1eef;a",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1695985840786,
+      "replies": 1,
+      "chapter_name": ""
+    },
+    {
+      "id": "3082928",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1686454136.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Hoàng Thùy Linh",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> t&#xf4;i &#x111;ang m&#x1a1; sao, 29 chap m&#x1edb;i!??",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1695985840786,
+      "replies": 1,
+      "chapter_name": ""
+    },
+    {
+      "id": "3082792",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1682134388.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Lâm Hồ",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> h&#x1a1;n 10 chap trong 1 l&#x1ea7;n c&#x1ead;p nh&#x1ead;t, vice lone =]]",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1695985840786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "3048419",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1664030632.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Lê Bảo",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> H&#x1ebf;t phim chap m&#x1ea5;y v ae",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1695381040786,
+      "replies": 0,
+      "chapter_name": ""
+    }
+  ],
+  "comments_count": 132,
+  "comments_pages": 14
+}

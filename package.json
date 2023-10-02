@@ -1,10 +1,10 @@
 {
-  "name": "ex-plugin",
-  "pluginName": "Plugin name",
+  "name": "truyenqqq",
+  "pluginName": "Truyện QQ",
   "version": "1.0.0",
-  "description": "Description for plugin.",
-  "author": "Author Example <example@example.com>",
-  "homepage": "https://github.com/manga-raiku",
+  "description": "Plugin nguồn của Truyện QQ.",
+  "author": "Tachibana Shin <tachibshin@duck.com>",
+  "homepage": "https://github.com/manga-raiku/raiku-plugin-truyenqq",
   "main": "index.js",
   "scripts": {
     "format": "prettier -w ./src",
@@ -22,11 +22,12 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
     "client-ext-animevsub-helper": "^1.0.4",
-    "raiku-pgs": "^0.0.3"
+    "raiku-pgs": "0.0.9-beta.17"
   },
   "devDependencies": {
     "@tachibana-shin/eslint-config": "^1.1.1",
     "@types/node": "^20.7.2",
+    "@vitest/ui": "^0.34.6",
     "bumpp": "^9.2.0",
     "esbuild": "^0.19.2",
     "esbuild-runner": "^2.2.2",

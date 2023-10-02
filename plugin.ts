@@ -8,11 +8,20 @@ import {
   type Ranking,
   type Server
 } from "raiku-pgs/plugin"
+import index from "src/runs"
+import General from "src/runs/[general]"
+import BangXepHang from "src/runs/bang-xep-hang/[type]"
+import ListComments from "src/runs/frontend/comment/list"
+import mangaList from "src/runs/frontend/manga-list"
+import presearch from "src/runs/frontend/pre-search"
+import timKiem from "src/runs/tim-kiem"
+import Slug from "src/runs/truyen-tranh/[slug]"
+import SlugChapChap from "src/runs/truyen-tranh/[slug]-chap-[chap]"
 
 const Rankings: Ranking[] = []
 const Servers: Server[] = []
 
-class Nettruyen implements API {
+class TruyenQQ implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
@@ -27,15 +36,21 @@ class Nettruyen implements API {
     this.post = post
   }
 
-  async index() {}
+  async index() {
+    return index()
+  }
 
-  async getComic(zlug: string) {}
+  async getComic(zlug: string) {
+    return Slug(zlug)
+  }
 
   async getComicChapter<Fast extends boolean>(
     mangaId: ID,
     epId: ID,
     fast: Fast
-  ) {}
+  ) {
+    return SlugChapChap(mangaId, epId, fast)
+  }
 
   async getComicComments(
     comicId: number,
@@ -44,25 +59,38 @@ class Nettruyen implements API {
     parentId = 0,
     page: number,
     comicKey: string
-  ) {}
+  ) {
+    return ListComments(comicId, parentId, page, chapterId, comicKey)
+  }
 
-  async getListChapters(mangaId: ID) {}
+  async getListChapters(mangaId: ID) {
+    return mangaList(mangaId)
+  }
 
-  async searchQuickly(keyword: string, page: number) {}
+  async searchQuickly(keyword: string, page: number) {
+    return presearch(keyword)
+  }
 
-  async search(keyword: string, page: number) {}
+  async search(keyword: string, page: number) {
+    return timKiem(keyword, page)
+  }
 
-  async getRanking(
-    type: string,
-    page: number,
-    filter: Record<string, string>
-  ) {}
+  async getRanking(type: string, page: number, filter: Record<string, string>) {
+    type = type.toLowerCase()
+    const rank = Rankings.find((item) => item.value.toLowerCase() === type)
+
+    if (!rank) throw new Error("not_found")
+
+    return BangXepHang(rank.match, page, filter)
+  }
 
   async getCategory(
     type: string,
     page: number,
     filter: Record<string, string | string[]>
-  ) {}
+  ) {
+    return General(type, page, filter)
+  }
 }
 
-defineApi(Nettruyen)
+defineApi(TruyenQQ)

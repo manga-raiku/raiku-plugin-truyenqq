@@ -1,0 +1,26 @@
+import type { RouteComicChap } from "raiku-pgs/plugin"
+import { normalizeChName, parseAnchor, parseDate } from "raiku-pgs/plugin"
+import { parseRouteComic } from "src/logic/parse-route-comic"
+
+export default function (html: string) {
+  const $ = parseDom(html)
+
+  return $("a")
+    .toArray()
+    .map((item) => {
+      const $item = $(item)
+      const $time = $item.find(".time-chap")
+
+      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+      const { name, path } = parseAnchor($item.find("a"), normalizeChName)!
+      const route = parseRouteComic(path) as RouteComicChap
+
+      return {
+        route,
+        id: route.params.chap,
+        name,
+        updated_at: parseDate($time.text()),
+        views: null
+      }
+    })
+}

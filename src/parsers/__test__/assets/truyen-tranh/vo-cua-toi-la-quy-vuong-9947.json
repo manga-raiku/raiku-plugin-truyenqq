@@ -1,0 +1,1125 @@
+{
+  "name": "Vợ Của Tôi Là Quỷ Vương",
+  "othername": "",
+  "manga_id": "9947",
+  "updated_at": 1583514000000,
+  "image": "https://i.truyenvua.com/ebook/190x247/vo-cua-toi-la-quy-vuong_1593762737.jpg?gt=hdfgdfg&mobile=2",
+  "author": [
+    {
+      "name": "Đang Cập Nhật",
+      "route": {
+        "name": "author",
+        "params": { "sourceId": "truyenqqq", "type": "dang-cap-nhat-239.html" },
+        "query": {}
+      }
+    }
+  ],
+  "status": "Đang Cập Nhật",
+  "genres": [
+    {
+      "name": "Adventure",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "adventure-27.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Fantasy",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "fantasy-30.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Manhua",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "manhua-35.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Romance",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "romance-36.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Webtoon",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "webtoon-55.html" },
+        "query": {}
+      }
+    },
+    {
+      "name": "Truyện Màu",
+      "route": {
+        "name": "genre",
+        "params": { "sourceId": "truyenqqq", "type": "truyen-mau-92.html" },
+        "query": {}
+      }
+    }
+  ],
+  "views": 260074,
+  "rate": { "cur": 0, "max": 0, "count": 0 },
+  "follows": 1252,
+  "likes": 184,
+  "description": "Truyện tranh Vợ Của Tôi Là Quỷ Vương được cập nhật nhanh và đầy đủ nhất tại TruyenQQ. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ TruyenQQ ra các chương mới nhất của truyện Vợ Của Tôi Là Quỷ Vương.",
+  "chapters": [
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "64"
+        }
+      },
+      "id": "64",
+      "name": "64",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "63"
+        }
+      },
+      "id": "63",
+      "name": "63",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "62"
+        }
+      },
+      "id": "62",
+      "name": "62",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "61"
+        }
+      },
+      "id": "61",
+      "name": "61",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "60"
+        }
+      },
+      "id": "60",
+      "name": "60",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "59"
+        }
+      },
+      "id": "59",
+      "name": "59",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "58"
+        }
+      },
+      "id": "58",
+      "name": "58",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "57"
+        }
+      },
+      "id": "57",
+      "name": "57",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "56"
+        }
+      },
+      "id": "56",
+      "name": "56",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "55"
+        }
+      },
+      "id": "55",
+      "name": "55",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "54"
+        }
+      },
+      "id": "54",
+      "name": "54",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "53"
+        }
+      },
+      "id": "53",
+      "name": "53",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "52"
+        }
+      },
+      "id": "52",
+      "name": "52",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "51"
+        }
+      },
+      "id": "51",
+      "name": "51",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "50"
+        }
+      },
+      "id": "50",
+      "name": "50",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "49"
+        }
+      },
+      "id": "49",
+      "name": "49",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "48"
+        }
+      },
+      "id": "48",
+      "name": "48",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "47"
+        }
+      },
+      "id": "47",
+      "name": "47",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "46"
+        }
+      },
+      "id": "46",
+      "name": "46",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "45"
+        }
+      },
+      "id": "45",
+      "name": "45",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "44"
+        }
+      },
+      "id": "44",
+      "name": "44",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "43"
+        }
+      },
+      "id": "43",
+      "name": "43",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "42"
+        }
+      },
+      "id": "42",
+      "name": "42",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "41"
+        }
+      },
+      "id": "41",
+      "name": "41",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "40"
+        }
+      },
+      "id": "40",
+      "name": "40",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "39"
+        }
+      },
+      "id": "39",
+      "name": "39",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "38"
+        }
+      },
+      "id": "38",
+      "name": "38",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "37"
+        }
+      },
+      "id": "37",
+      "name": "37",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "36"
+        }
+      },
+      "id": "36",
+      "name": "36",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "35"
+        }
+      },
+      "id": "35",
+      "name": "35",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "34"
+        }
+      },
+      "id": "34",
+      "name": "34",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "33"
+        }
+      },
+      "id": "33",
+      "name": "33",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "32"
+        }
+      },
+      "id": "32",
+      "name": "32",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "31"
+        }
+      },
+      "id": "31",
+      "name": "31",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "30"
+        }
+      },
+      "id": "30",
+      "name": "30",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "29"
+        }
+      },
+      "id": "29",
+      "name": "29",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "28"
+        }
+      },
+      "id": "28",
+      "name": "28",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "27"
+        }
+      },
+      "id": "27",
+      "name": "27",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "26"
+        }
+      },
+      "id": "26",
+      "name": "26",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "25"
+        }
+      },
+      "id": "25",
+      "name": "25",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "24"
+        }
+      },
+      "id": "24",
+      "name": "24",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "23"
+        }
+      },
+      "id": "23",
+      "name": "23",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "22"
+        }
+      },
+      "id": "22",
+      "name": "22",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "21"
+        }
+      },
+      "id": "21",
+      "name": "21",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "20"
+        }
+      },
+      "id": "20",
+      "name": "20",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "19"
+        }
+      },
+      "id": "19",
+      "name": "19",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "18"
+        }
+      },
+      "id": "18",
+      "name": "18",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "17"
+        }
+      },
+      "id": "17",
+      "name": "17",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "16"
+        }
+      },
+      "id": "16",
+      "name": "16",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "15"
+        }
+      },
+      "id": "15",
+      "name": "15",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "14"
+        }
+      },
+      "id": "14",
+      "name": "14",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "13"
+        }
+      },
+      "id": "13",
+      "name": "13",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "12"
+        }
+      },
+      "id": "12",
+      "name": "12",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "11"
+        }
+      },
+      "id": "11",
+      "name": "11",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "10"
+        }
+      },
+      "id": "10",
+      "name": "10",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "9"
+        }
+      },
+      "id": "9",
+      "name": "9",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "8"
+        }
+      },
+      "id": "8",
+      "name": "8",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "7"
+        }
+      },
+      "id": "7",
+      "name": "7",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "6"
+        }
+      },
+      "id": "6",
+      "name": "6",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "5"
+        }
+      },
+      "id": "5",
+      "name": "5",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "4"
+        }
+      },
+      "id": "4",
+      "name": "4",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "3"
+        }
+      },
+      "id": "3",
+      "name": "3",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "2"
+        }
+      },
+      "id": "2",
+      "name": "2",
+      "updated_at": 1593709200000,
+      "views": null
+    },
+    {
+      "route": {
+        "name": "comic chap",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vo-cua-toi-la-quy-vuong-9947",
+          "chap": "1"
+        }
+      },
+      "id": "1",
+      "name": "1",
+      "updated_at": 1593709200000,
+      "views": null
+    }
+  ],
+  "comments": [
+    {
+      "id": "2879307",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1671983811.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Trùm Bá Đú",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> Th&#xea;m m&#x1ed7;i ch&#x1eef; &quot; c&#x1ee7;a &quot; ch&#xfa;ng ta c&#xf3; 1 b&#x1ed9; truy&#x1ec7;n kh&#xe1;c <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://1.bp.blogspot.com/-DFdQ1q2SaUs/WtuC0Utob9I/AAAAAAABiEc/rRQ9PtVAFVwNPT5zcebGqOzsr_jXV8hwACKgBGAs/h120/14-yaoming.gif\" alt=\"emo\"><br>C&#xf2;n n&#x1ed9;i dung b&#xe2;y gi&#x1edd; m&#x1edb;i &#x111;&#x1ecd;c n&#xea;n ko bi&#x1ebf;t <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://3.bp.blogspot.com/_1Jw2fzSntT0/TZDLUle0zHI/AAAAAAAABVE/SoQIXa7KEGk/w1600/087.gif\" alt=\"emo\">",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1688469040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "2780169",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1674888910.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Cỏ",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> T",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1683285040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "2755352",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1674909462.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Tửu",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> &#x110;ang t&#x1edb;i kh&#xfa;c hay m&#xe0; h&#x1ebf;t l&#xe0;m h&#xf3;ng c&#x1ed5; d&#xe0;y r&#xe2;u d&#xe0;y lu&#xf4;n",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1683285040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "2755351",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1674909462.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Tửu",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> L&#x1ea5;y ko &#x111;&#x1b0;&#x1ee3;c n&#x1eef;a h&#x1ea3; ad <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://4.bp.blogspot.com/_1Jw2fzSntT0/TDYXPdJYf7I/AAAAAAAAApg/KFH41KX1KsQ/s400/10.gif\" alt=\"emo\">",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1683285040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "2696332",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1674909462.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Để",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> Ko ra ti&#x1ebf;p s ad",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1680693040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "2648859",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1676224194.jpg?gt=hdfgdfg&mobile=2",
+        "name": "Trần Hải",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" class=\"lazy-image\" data-src=\"https://4.bp.blogspot.com/_1Jw2fzSntT0/TZDLBB9cMqI/AAAAAAAABPo/aEOUmUAfhNY/w1600/001.gif\" alt=\"emo\">",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1678101040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "1781300",
+      "author": {
+        "avatar": "https://avatar.truyenvua.com/160x160/avatar_1671687363.jpg?gt=hdfgdfg&mobile=2",
+        "name": "oni chan",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> s l&#xe2;u ra v&#x1ead;y bro",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1664709040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "1049150",
+      "author": {
+        "avatar": "https://st.truyenqqq.vn/template/frontend/images/noavatar.png",
+        "name": "Công Chuyên",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> K ra n&#x1eef;a &#xe0; ae &#x111;ang hay",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1633173040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "1014678",
+      "author": {
+        "avatar": "https://st.truyenqqq.vn/template/frontend/images/noavatar.png",
+        "name": "L",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> &#xe1; &#x111;&#xf9; &#x111;&#x1ec1;u up v&#xe0;o 3/7 &#xe0;",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1633173040786,
+      "replies": 0,
+      "chapter_name": ""
+    },
+    {
+      "id": "919241",
+      "author": {
+        "avatar": "https://st.truyenqqq.vn/template/frontend/images/noavatar.png",
+        "name": "D",
+        "level": null,
+        "chapter": ""
+      },
+      "content": "<strong></strong> Hay vl <br>Th&#xed;ch truy&#xea;n ki&#x1ec3;u n&#xe0;y<br>Ai gi&#x1edb;i thi&#x1ec7;u v&#xe0;i truy&#x1ec7;n ki&#x1ec3;u n&#xe0;y &#x111;i",
+      "like": 0,
+      "dislike": 0,
+      "created_at": 1601637040786,
+      "replies": 0,
+      "chapter_name": ""
+    }
+  ],
+  "comments_count": 11,
+  "comments_pages": 2
+}

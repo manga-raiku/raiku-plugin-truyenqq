@@ -1,0 +1,2067 @@
+{
+  "name": "Truyện Fantasy",
+  "description": "Thể loại xuất phát từ trí tưởng tượng phong phú, từ pháp thuật đến thế giới trong mơ thậm chí là những câu chuyện thần tiên",
+  "filters": [
+    {
+      "type": "Thể loại truyện",
+      "select": [
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "action-26.html" },
+            "query": {}
+          },
+          "name": "Action"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "adventure-27.html" },
+            "query": {}
+          },
+          "name": "Adventure"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "anime-62.html" },
+            "query": {}
+          },
+          "name": "Anime"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "chuyen-sinh-91.html"
+            },
+            "query": {}
+          },
+          "name": "Chuyển Sinh"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "co-dai-90.html" },
+            "query": {}
+          },
+          "name": "Cổ Đại"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "comedy-28.html" },
+            "query": {}
+          },
+          "name": "Comedy"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "comic-60.html" },
+            "query": {}
+          },
+          "name": "Comic"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "demons-99.html" },
+            "query": {}
+          },
+          "name": "Demons"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "detective-100.html" },
+            "query": {}
+          },
+          "name": "Detective"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "doujinshi-96.html" },
+            "query": {}
+          },
+          "name": "Doujinshi"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "drama-29.html" },
+            "query": {}
+          },
+          "name": "Drama"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "fantasy-30.html" },
+            "query": {}
+          },
+          "name": "Fantasy"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "gender-bender-45.html"
+            },
+            "query": {}
+          },
+          "name": "Gender Bender"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "harem-47.html" },
+            "query": {}
+          },
+          "name": "Harem"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "historical-51.html" },
+            "query": {}
+          },
+          "name": "Historical"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "horror-44.html" },
+            "query": {}
+          },
+          "name": "Horror"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "huyen-huyen-468.html"
+            },
+            "query": {}
+          },
+          "name": "Huyền Huyễn"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "isekai-85.html" },
+            "query": {}
+          },
+          "name": "Isekai"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "josei-54.html" },
+            "query": {}
+          },
+          "name": "Josei"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "mafia-69.html" },
+            "query": {}
+          },
+          "name": "Mafia"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "magic-58.html" },
+            "query": {}
+          },
+          "name": "Magic"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "manhua-35.html" },
+            "query": {}
+          },
+          "name": "Manhua"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "manhwa-49.html" },
+            "query": {}
+          },
+          "name": "Manhwa"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "martial-arts-41.html"
+            },
+            "query": {}
+          },
+          "name": "Martial Arts"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "military-101.html" },
+            "query": {}
+          },
+          "name": "Military"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "mystery-39.html" },
+            "query": {}
+          },
+          "name": "Mystery"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "ngon-tinh-87.html" },
+            "query": {}
+          },
+          "name": "Ngôn Tình"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "one-shot-95.html" },
+            "query": {}
+          },
+          "name": "One shot"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "psychological-40.html"
+            },
+            "query": {}
+          },
+          "name": "Psychological"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "romance-36.html" },
+            "query": {}
+          },
+          "name": "Romance"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "school-life-37.html"
+            },
+            "query": {}
+          },
+          "name": "School Life"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "sci-fi-43.html" },
+            "query": {}
+          },
+          "name": "Sci-fi"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "seinen-42.html" },
+            "query": {}
+          },
+          "name": "Seinen"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "shoujo-38.html" },
+            "query": {}
+          },
+          "name": "Shoujo"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "shoujo-ai-98.html" },
+            "query": {}
+          },
+          "name": "Shoujo Ai"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "shounen-31.html" },
+            "query": {}
+          },
+          "name": "Shounen"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "shounen-ai-86.html" },
+            "query": {}
+          },
+          "name": "Shounen Ai"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "slice-of-life-46.html"
+            },
+            "query": {}
+          },
+          "name": "Slice of life"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "sports-57.html" },
+            "query": {}
+          },
+          "name": "Sports"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "supernatural-32.html"
+            },
+            "query": {}
+          },
+          "name": "Supernatural"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "tragedy-52.html" },
+            "query": {}
+          },
+          "name": "Tragedy"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "trong-sinh-82.html" },
+            "query": {}
+          },
+          "name": "Trọng Sinh"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "truyen-mau-92.html" },
+            "query": {}
+          },
+          "name": "Truyện Màu"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": { "sourceId": "truyenqqq", "type": "webtoon-55.html" },
+            "query": {}
+          },
+          "name": "Webtoon"
+        },
+        {
+          "route": {
+            "name": "genre",
+            "params": {
+              "sourceId": "truyenqqq",
+              "type": "xuyen-khong-88.html"
+            },
+            "query": {}
+          },
+          "name": "Xuyên Không"
+        }
+      ]
+    },
+    {
+      "type": "Tình trạng",
+      "key": "status",
+      "items": [
+        { "value": "0", "name": "Đang tiến hành" },
+        { "value": "2", "name": "Hoàn thành" }
+      ]
+    },
+    {
+      "type": "Quốc gia",
+      "key": "country",
+      "items": [
+        { "value": "1", "name": "Trung Quốc" },
+        { "value": "2", "name": "Việt Nam" },
+        { "value": "3", "name": "Hàn Quốc" },
+        { "value": "4", "name": "Nhật Bản" },
+        { "value": "5", "name": "Mỹ" }
+      ]
+    },
+    {
+      "type": "Sắp xếp",
+      "key": "sort",
+      "items": [
+        { "value": "0", "name": "Ngày đăng giảm dần" },
+        { "value": "1", "name": "Ngày đăng tăng dần" },
+        { "value": "2", "name": "Ngày cập nhật giảm dần" },
+        { "value": "3", "name": "Ngày cập nhật tăng dần" },
+        { "value": "4", "name": "Lượt xem giảm dần" },
+        { "value": "5", "name": "Lượt xem tăng dần" }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "ta-la-thien-than-manh-nhat-14344"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ta-la-thien-than-manh-nhat_1687484378.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Ta Là Thiên Thần Mạnh Nhất",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ta-la-thien-than-manh-nhat-14344",
+              "chap": "7"
+            }
+          },
+          "name": "7",
+          "id": "7",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 11801,
+      "likes": 347,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Manhwa",
+        "Truyện Màu"
+      ],
+      "description": "Lucifer, một thiên thần thích chiến đấu và ghét thua cuộc, dành cả ngày để chiến đấu. Trong trận chiến với Satan, anh bất ngờ bị phản bội, và anh rơi vào thời đại hiện tại nơi quỷ và người cùng tồn tại hàng trăm năm sau.\r\nLucifer, người đã mất tất cả mọi thứ kể cả sức mạnh của mình, đã tiến hóa và có..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "chau-trai-cua-nam-chinh-rat-thich-toi-14316"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/chau-trai-cua-nam-chinh-rat-thich-toi_1687075484.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Cháu Trai Của Nam Chính Rất Thích Tôi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "chau-trai-cua-nam-chinh-rat-thich-toi-14316",
+              "chap": "23"
+            }
+          },
+          "name": "23",
+          "id": "23",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 33347,
+      "likes": 427,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Ngôn Tình", "Truyện Màu"],
+      "description": "Một ngày nọ, kiếp trước của tôi bỗng hiện ra trong tâm trí. Chương thứ hai của cuộc đời, tôi là một nhân vật phản diện c.h.ế.t mê c.h.ế.t mệt nam chính trong một cuốn tiểu thuyết và tự hủy mình bởi tình yêu mù quáng ấy. Tôi quyết định sẽ sống lặng lẽ ở điền trang cho lành nhưng cha đã liên lạc với t..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "truyen-nhan-cua-than-thoai-anh-hung-14283"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/truyen-nhan-cua-than-thoai-anh-hung_1686617096.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Truyền Nhân Của Thần Thoại Anh Hùng",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "truyen-nhan-cua-than-thoai-anh-hung-14283",
+              "chap": "21"
+            }
+          },
+          "name": "21",
+          "id": "21",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 61181,
+      "likes": 770,
+      "comments": null,
+      "tags": ["Action", "Adventure", "Fantasy", "Manhwa", "Truyện Màu"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "ban-tinh-ca-hy-lan-quoc-14257"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ban-tinh-ca-hy-lan-quoc_1685979775.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Bản Tình Ca Hy Lan Quốc",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ban-tinh-ca-hy-lan-quoc-14257-chap-58-2"
+            }
+          },
+          "name": "58.2",
+          "id": "ban-tinh-ca-hy-lan-quoc-14257-chap-58-2",
+          "updated_at": 1695467440786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 26967,
+      "likes": 198,
+      "comments": null,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Manhwa",
+        "Historical",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "So Ru, nàng công chúa bị ruồng bỏ, lớn lên trong sự ghẻ lạnh và cô độc bởi khả năng nhìn thấy ma quỷ của mình. Tất cả những người xung quanh đều bị sát hại một cách tàn khốc nếu dám tiếp cận nàng. Cái tên người dân đặt cho nàng: “công chúa ma quỷ” – như một tạo vật kinh khủng không nên tồn tại trên ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "death-candle-14220" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/death-candle_1685439156.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Death Candle",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "death-candle-14220",
+              "chap": "7"
+            }
+          },
+          "name": "7",
+          "id": "7",
+          "updated_at": 1696223440786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 9727,
+      "likes": 162,
+      "comments": null,
+      "tags": ["Action", "Comedy", "Fantasy", "Supernatural", "Shoujo"],
+      "description": "\"Làm ơn, giúp tôi chết đi!\"\r\nChán sống, Mimi đã nhiều lần cố gắng tự kết liễu đời mình. Cô ấy rất thất vọng, bằng cách nào đó, cuối cùng cô ấy luôn sống sót. Nhưng sau đó, cô tình cờ thấy một trang web có tên \"Ngọn nến chết chóc\" và kết thúc việc ký hợp đồng với một con quỷ chết chóc: nếu Mimi giúp a..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "bac-thay-kiem-su-cap-9-nguoi-bao-ve-kiem-14202"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/bac-thay-kiem-su-cap-9-nguoi-bao-ve-kiem_1685084202.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Bậc Thầy Kiếm Sư Cấp 9 : Người Bảo Vệ Kiếm",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "bac-thay-kiem-su-cap-9-nguoi-bao-ve-kiem-14202",
+              "chap": "16"
+            }
+          },
+          "name": "16",
+          "id": "16",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 27833,
+      "likes": 430,
+      "comments": null,
+      "tags": ["Action", "Adventure", "Fantasy", "Shounen"],
+      "description": "Vào năm 237 của Kỷ nguyên Đế quốc, 'Cuộc chiến thánh' kết thúc - một cuộc chiến nhằm bảo vệ loài người khỏi 'sự thối nát'. Vào cuối trận chiến này, Sword Saint, Kyril McGyver, phải đối mặt với sự phản bội từ người bạn thân nhất của mình và Hoàng đế, Oliver. Cuối cùng, sau khi giết Hoàng đế, Kyril qu..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "thuyet-thien-duong-14190"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/thuyet-thien-duong_1684911086.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Thuyết Thiên Đường",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "thuyet-thien-duong-14190",
+              "chap": "34"
+            }
+          },
+          "name": "34",
+          "id": "34",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 13257,
+      "likes": 130,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Ngôn Tình", "Truyện Màu"],
+      "description": "Thuyết Thiên Đường là câu chuyện về ba người rơi vào địa ngục và sống trong tuyệt vọng, cố gắng thay đổi thế giới vì người họ yêu, và cuối cùng tìm thấy ánh sáng trong bóng tối."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "tro-choi-ma-quai-14182" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/tro-choi-ma-quai_1684910568.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Trò Chơi Ma Quái",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "tro-choi-ma-quai-14182",
+              "chap": "23"
+            }
+          },
+          "name": "23",
+          "id": "23",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 39211,
+      "likes": 493,
+      "comments": null,
+      "tags": ["Action", "Fantasy", "Manhwa", "Truyện Màu"],
+      "description": "“Chào mừng người chơi đã tham gia.” Cậu thiếu niên Kang Min đã đánh mất anh trai mình bởi trò chơi ma quái. Sau 5 năm kể từ ngày hôm đó, cậu đã nhận được cuộc điện thoại mời tham gia trò chơi nếu muốn tìm lại anh của mình. Ngay khi cậu vừa chấp nhận lời mời, những câu chuyện kinh dị bắt đầu xuất hiệ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "cuoc-song-gian-di-cua-nguoi-doc-than-bi-bo-roi-14180"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/cuoc-song-gian-di-cua-nguoi-doc-than-bi-bo-roi_1684910436.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Cuộc Sống Giản Dị Của Người Độc Thân Bị Bỏ Rơi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "cuoc-song-gian-di-cua-nguoi-doc-than-bi-bo-roi-14180",
+              "chap": "11"
+            }
+          },
+          "name": "11",
+          "id": "11",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 11568,
+      "likes": 188,
+      "comments": null,
+      "tags": ["Fantasy", "Romance", "Manhwa", "Ngôn Tình"],
+      "description": "Catherine vì không thể chịu đựng nổi mụ mẹ kế hách dịch và con em gái hai mặt nên đã chuyển nhà đi. Vốn muốn sống bình yên nhưng căn nhà cô mới chuyển vào không được bình yên cho lắm..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "dia-nguc-han-thu-14163" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/dia-nguc-han-thu_1684380836.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Địa Ngục Hận Thù",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "dia-nguc-han-thu-14163",
+              "chap": "23"
+            }
+          },
+          "name": "23",
+          "id": "23",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 20301,
+      "likes": 308,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Psychological",
+        "Sci-Fi",
+        "Manhwa",
+        "Truyện Màu"
+      ],
+      "description": "\"Nhớ lấy\", \"Một, hai, ba, bốn, năm, sáu, bảy \"\r\n\"Tao...tao phải...nhớ đến cùng...\"\r\nNgày mà người vợ mà tôi yêu quý bị giết bởi những tên khốn đó, tâm trí tôi toàn là cảnh báo thù. Đúng vậy, tao phải giết lũ khốn nạn đó. \"Ngày mà tôi chết sau khi báo thù cho vợ tôi, hãy chôn tôi bên cạnh cô ấy\". Giờ đ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "toi-thang-cap-tot-dinh-vi-la-1-kol-14161"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toi-thang-cap-tot-dinh-vi-la-1-kol_1684380561.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tôi Thăng Cấp Tột Đỉnh Vì Là 1 Kol",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toi-thang-cap-tot-dinh-vi-la-1-kol-14161",
+              "chap": "17"
+            }
+          },
+          "name": "17",
+          "id": "17",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 79152,
+      "likes": 1189,
+      "comments": null,
+      "tags": ["Action", "Fantasy", "Manhwa", "Truyện Màu"],
+      "description": "Sống trong một thế giới mà khả năng chinh phục ngục tối phản ánh địa vị của bạn, Akisora Shuu đã có được class \"Người thẩm định\". Đó là một class chưa từng xuất hiện bao giờ và cũng không thích hợp để chiến đấu. Vì không một ai quan tâm đến anh, Shuu chỉ có thể sống một cuộc sống nhàm chán ngày này ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "lam-sieu-sao-tu-0-tuoi-14157"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/lam-sieu-sao-tu-0-tuoi_1684379735.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Làm Siêu Sao Từ 0 Tuổi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "lam-sieu-sao-tu-0-tuoi-14157",
+              "chap": "16"
+            }
+          },
+          "name": "16",
+          "id": "16",
+          "updated_at": 1694862640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 52763,
+      "likes": 725,
+      "comments": null,
+      "tags": ["Drama", "Fantasy", "Manhwa", "Ngôn Tình", "Truyện Màu"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "su-phan-boi-14154" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/su-phan-boi_1684378744.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Sự Phản Bội",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "su-phan-boi-14154-chap-23-2"
+            }
+          },
+          "name": "23.2",
+          "id": "su-phan-boi-14154-chap-23-2",
+          "updated_at": 1696072240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 21590,
+      "likes": 224,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Fantasy", "Manhwa", "Ngôn Tình", "Cổ Đại"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "phuong-phap-tra-thu-nguoi-chong-trang-hoa-14121"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/phuong-phap-tra-thu-nguoi-chong-trang-hoa_1683594005.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Phương Pháp Trả Thù Người Chồng Trăng Hoa",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "phuong-phap-tra-thu-nguoi-chong-trang-hoa-14121-chap-25-2"
+            }
+          },
+          "name": "25.2",
+          "id": "phuong-phap-tra-thu-nguoi-chong-trang-hoa-14121-chap-25-2",
+          "updated_at": 1695813040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 31436,
+      "likes": 249,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Ngôn Tình", "Cổ Đại", "Truyện Màu"],
+      "description": "Scarlet là một đứa con gái từ bé đến lớn chỉ biết vâng lời. Cô ấy đã lên thủ đô để kết hôn với công tước Huntington theo lệnh của cha. Nhưng vị hôn phu ấy đã có người trong lòng, còn Scarlet chỉ được chọn để làm tấm rèm che giấu mối quan hệ của hai người họ. Trước ngày kết hôn, Scarlet đã nghe trộm ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "nha-hang-the-gioi-ngam-14048"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/nha-hang-the-gioi-ngam_1681550686.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Nhà Hàng Thế Giới Ngầm",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "nha-hang-the-gioi-ngam-14048",
+              "chap": "10"
+            }
+          },
+          "name": "10",
+          "id": "10",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 21119,
+      "likes": 344,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Slice Of Life",
+        "Manhwa"
+      ],
+      "description": "“8, 8, 8, 8,2 tỷ?!” Tòa nhà 8,2 tỷ bất ngờ xuất hiện trong cuộc đời của cậu sinh viên!! Hành vi của những khách hàng đến nhà hàng là đáng ngờ, và họ chỉ nói những điều không rõ…… . diễn ra ngay trung tâm Seoul Một câu chuyện cảm động lạnh sống lưng. Mỗi đêm từ mười một giờ đến một giờ. Nhà hàng Jeos..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "change-me-phan-4-14044" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/change-me-phan-4_1681408500.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Change Me Phần 4",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "change-me-phan-4-14044",
+              "chap": "5"
+            }
+          },
+          "name": "5",
+          "id": "5",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 4610,
+      "likes": 14,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Fantasy", "Manhwa", "Webtoon"],
+      "description": "Truyện: Thay đổi tôi phần 4.\r\nNội dung: Chị vợ bị chồng lừa dối và giết hại. Đổi mặt quay lại để trả thù."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "su-tro-lai-ma-duoc-su-cap-fff-14031"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/image_2023-04-11_085613813_1681178173.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Sự Trở Lại Ma Dược Sư Cấp Fff",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "su-tro-lai-ma-duoc-su-cap-fff-14031",
+              "chap": "30"
+            }
+          },
+          "name": "30",
+          "id": "30",
+          "updated_at": 1696216240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 156127,
+      "likes": 1630,
+      "comments": null,
+      "tags": ["Action", "Fantasy", "Manhwa", "Truyện Màu"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "toi-muon-song-mot-cuoc-song-hien-tu-14027"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toi-muon-song-mot-cuoc-song-hien-tu_1681113752.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tôi Muốn Sống Một Cuộc Sống Hiền Từ",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toi-muon-song-mot-cuoc-song-hien-tu-14027",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1691061040786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 6971,
+      "likes": 174,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Cổ Đại",
+        "Truyện Màu"
+      ],
+      "description": "Hee Ran, cháu gái của Mazon, đã sống một cuộc sống xa xỉ và hưởng lạc. Nhưng vào ngày nọ, cô đã bị mẹ kế sát hại một cách thê thảm.\r\n“May thay, tôi được quay trở về quá khứ”\r\nCô quyết tâm sẽ trả thù mẹ kế, sẽ khiến bà ta trả giá bằng mạng sống của chính mình.\r\n“Thật hạnh phúc!”\r\nCô đã từ bỏ việc trả thù..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "ngay-ca-khi-la-ac-nu-toi-van-se-tro-thanh-nu-chinh-14018"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ngay-ca-khi-la-ac-nu-toi-van-se-tro-thanh-nu-chinh_1681090049.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Ngay Cả Khi Là Ác Nữ, Tôi Vẫn Sẽ Trở Thành Nữ Chính",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ngay-ca-khi-la-ac-nu-toi-van-se-tro-thanh-nu-chinh-14018",
+              "chap": "108"
+            }
+          },
+          "name": "108",
+          "id": "108",
+          "updated_at": 1694776240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 87902,
+      "likes": 645,
+      "comments": null,
+      "tags": ["Action", "Drama", "Fantasy", "Romance", "Manhwa", "Truyện Màu"],
+      "description": "Tôi đã không thể chịu được sự ngược đãi và tự kết thúc cuộc đời mình, nhưng lại được tái sinh vào thế giới của một cuốn sách mà tôi từng đọc, cùng với người đã khiến cuộc đời tôi trở thành địa ngục trần gian. Dĩ nhiên cô ấy sẽ là nữ chính - Florre, còn tôi, Dahlia, sẽ là kẻ phản diện, với cái chết t..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "hieu-nham-roi-toi-khong-phai-nguoi-tinh-cua-trum-cuoi-dau-13996"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/hieu-nham-roi-toi-khong-phai-nguoi-tinh-cua-trum-cuoi-dau_1680666519.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Hiểu Nhầm Rồi, Tôi Không Phải Người Tình Của Trùm Cuối Đâu",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "hieu-nham-roi-toi-khong-phai-nguoi-tinh-cua-trum-cuoi-dau-13996",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1688469040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 7508,
+      "likes": 210,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Tôi đã sở hữu cơ thể của một nhân vật trong trò chơi. Tôi đã cống hiến hết sức mình cho nhân vật chính nhưng…tôi lại bị vứt đi như một đôi giày cũ.\r\nMột người bất ngờ xuất hiện trước mặt tôi ngay lúc tôi đang run lên vì cảm giác bị phản bội. Meyer Knox, hiệp sĩ đen và cũng là trùm cuối của trò chơi n..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "binh-vuong-chuyen-sinh-13991"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/binh-vuong-chuyen-sinh_1680590412.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Binh Vương Chuyển Sinh",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "binh-vuong-chuyen-sinh-13991",
+              "chap": "29"
+            }
+          },
+          "name": "29",
+          "id": "29",
+          "updated_at": 1694776240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 155203,
+      "likes": 2063,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen",
+        "Manhwa",
+        "Chuyển Sinh",
+        "Truyện Màu"
+      ],
+      "description": "Hasumi Ryuuji, người được mệnh danh là binh cương thời đại hiện đại, một người có thể tạo ra nhiều chin lược gần như bất khả thi. Trong một lần làm nhiệm vụ, anh đã bị dịch chuyển tới sâu thẳm của một hàm ngục ở thế giới khác. Một giọng nói vang vọng trong não của anh ấy đã hướng dẫn anh ấy. “Chào ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "ma-vuong-pham-an-13990" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ma-vuong-pham-an_1680590187.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Ma Vương Phàm Ăn",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ma-vuong-pham-an-13990",
+              "chap": "16"
+            }
+          },
+          "name": "16",
+          "id": "16",
+          "updated_at": 1694344240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 49328,
+      "likes": 761,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Manhwa",
+        "Webtoon",
+        "Truyện Màu"
+      ],
+      "description": "Đây là bộ truyện Berserk of Gluttony bản chất nó là truyện manga, nhưng được bên Hàn vẽ lại bản màu thôi nhé. Cốt truyện vẫn tương tự nhưng tình tiết và nội dung hay hơn nhiều nha.Trong thế giới này tồn tại hai loại người. Những người có năng lực đặc biệt và những kẻ không có. Những người có năng lự..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "thanh-nu-tro-lai-lam-phan-dien-13981"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/thanh-nu-tro-lai-lam-phan-dien_1680483800.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Thánh Nữ Trở Lại Làm Phản Diện",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "thanh-nu-tro-lai-lam-phan-dien-13981",
+              "chap": "9"
+            }
+          },
+          "name": "9",
+          "id": "9",
+          "updated_at": 1694171440786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 22068,
+      "likes": 378,
+      "comments": null,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Shoujo",
+        "Manhwa",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Beatrice đã sống như một vị thánh trong 10 năm để ngăn chặn thảm họa của đế chế và cố giành được tình yêu của gia đình. Nhưng một ngày nọ, vị trí thánh nữ của cô bị một cô gái tên Lina Cumbell với mái tóc đen… lấy mất. “Ta sẽ giết cô, gia đình cô và tất cả những tín đồ.” Mọi người cho rằng Beatrice ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "hay-day-di-hoi-chien-binh-13965"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/hay-day-di-hoi-chien-binh_1680262371.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Hãy Dậy Đi Hỡi Chiến Binh",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "hay-day-di-hoi-chien-binh-13965",
+              "chap": "69"
+            }
+          },
+          "name": "69",
+          "id": "69",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 79804,
+      "likes": 612,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Manhwa",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "ke-an-the-gioi-13953" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ke-an-the-gioi_1680190572.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Kẻ Ăn Thế Giới",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ke-an-the-gioi-13953",
+              "chap": "5"
+            }
+          },
+          "name": "5",
+          "id": "5",
+          "updated_at": 1688469040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 4676,
+      "likes": 54,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Truyện Màu"],
+      "description": "Trở thành “cứu tinh của thế giới” là một điều khó bán, đặc biệt là với những người không có tình yêu với thế giới ngay từ đầu. Đột nhiên được trang bị cho một định mệnh dường như không thể xảy ra sau cuộc chạm trán với một vị thần rồng, Yulian thấy mình là một nữ anh hùng bất đắc dĩ trong một thế gi..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "toi-da-dien-tron-vai-mot-dua-con-gai-nuoi-13892"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toi-da-dien-tron-vai-mot-dua-con-gai-nuoi_1678954183.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tôi Đã Diễn Tròn Vai Một Đứa Con Gái Nuôi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toi-da-dien-tron-vai-mot-dua-con-gai-nuoi-13892",
+              "chap": "34"
+            }
+          },
+          "name": "34",
+          "id": "34",
+          "updated_at": 1695467440786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 175064,
+      "likes": 1890,
+      "comments": null,
+      "tags": [
+        "Fantasy",
+        "Manhwa",
+        "Ngôn Tình",
+        "Xuyên Không",
+        "Cổ Đại",
+        "Chuyển Sinh",
+        "Truyện Màu"
+      ],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "khi-ac-nu-phan-dien-duoc-yeu-13891"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/khi-ac-nu-phan-dien-duoc-yeu_1678954079.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Khi Ác Nữ Phản Diện Được Yêu",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "khi-ac-nu-phan-dien-duoc-yeu-13891",
+              "chap": "38"
+            }
+          },
+          "name": "38",
+          "id": "38",
+          "updated_at": 1695813040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 81531,
+      "likes": 781,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Ngôn Tình", "Cổ Đại", "Truyện Màu"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "nu-chinh-bo-tron-o-nha-ben-13879"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/nu-chinh-bo-tron-o-nha-ben_1678606613.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Nữ Chính Bỏ Trốn Ở Nhà Bên",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "nu-chinh-bo-tron-o-nha-ben-13879",
+              "chap": "33"
+            }
+          },
+          "name": "33",
+          "id": "33",
+          "updated_at": 1695899440786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 75378,
+      "likes": 795,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Seina Rohill là một thợ săn hạng D kiếm sống bằng việc giết những con quái vật khổng lồ — hoặc cô ấy nghĩ vậy. Sự thật rằng, cô ấy trở thành một nhân vật tầm thường trong cuốn tiểu thuyết “Bí mật ở tiệm hoa”. Hơn nữa, cô ấy lại là hàng xóm của nữ chính, Ellen Euclis! Câu chuyện xoay quanh việc các n..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "1331-13878" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/1331_1678606537.jpg?gt=hdfgdfg&mobile=2",
+      "name": "1331",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "1331-13878",
+              "chap": "5"
+            }
+          },
+          "name": "5",
+          "id": "5",
+          "updated_at": 1685877040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 13470,
+      "likes": 162,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Sci-Fi",
+        "Horror",
+        "Manhwa"
+      ],
+      "description": "Yoo Min, một nhân viên toàn thời gian của cửa hàng bách hóa, bắt đầu cảm thấy hoài nghi về cuộc sống của chính mình. Cô quyết định nghỉ việc do mâu thuẫn với quản lý của mình. Tuy nhiên, khi cô ấy bước vào văn phòng của người quản lý. Cô ấy đối mặt với người quản lý giờ đã biến thành một con quái vậ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "dua-tre-bao-ho-bong-dem-13868"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/dua-tre-bao-ho-bong-dem_1678442445.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Đứa Trẻ Bảo Hộ Bóng Đêm",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "dua-tre-bao-ho-bong-dem-13868",
+              "chap": "33"
+            }
+          },
+          "name": "33",
+          "id": "33",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 78810,
+      "likes": 903,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Ngôn Tình",
+        "Chuyển Sinh",
+        "Truyện Màu"
+      ],
+      "description": "Tôi tái sinh thành Daphne, phản diện sẽ chết sớm trong tương lai. Nhưng tôi không muốn chết, tôi cũng không muốn bị bán đi. “Vậy thì phải thay đổi câu chuyện!” Vì thế, tôi cố giành được thiện cảm của nữ chính và để nam chính thành thái tử. “Tạm biệt, em gái. Em giúp ích được rất nhiều đấy.” …Nam chí..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "moi-dem-chong-toi-deu-bien-doi-13846"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/moi-dem-chong-toi-deu-bien-doi_1678187010.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Mỗi Đêm Chồng Tôi Đều Biến Đổi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "moi-dem-chong-toi-deu-bien-doi-13846-chap-24-1"
+            }
+          },
+          "name": "24.1",
+          "id": "moi-dem-chong-toi-deu-bien-doi-13846-chap-24-1",
+          "updated_at": 1691061040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 54045,
+      "likes": 571,
+      "comments": null,
+      "tags": [
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Ngôn Tình",
+        "Cổ Đại",
+        "Truyện Màu"
+      ],
+      "description": "Công chúa Terriella bị bán làm vợ hoàng đế Libanfel của đế quốc Leonhartha – người nổi tiếng là bạo quân tồi tệ nhất trong lịch sử. Để sống mình nhất định phải bị từ chối! Người đàn ông vừa đẹp trai vừa cường tráng mỗi đêm đều tìm đến phòng ngủ của Terriella đang chuẩn bị sẵn mọi thứ? “Mỗi đêm ta đề..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "su-xuat-hien-hoanh-trang-cua-ac-nu-13842"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/su-xuat-hien-hoanh-trang-cua-ac-nu_1677989777.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Sự Xuất Hiện Hoành Tráng Của Ác Nữ",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "su-xuat-hien-hoanh-trang-cua-ac-nu-13842",
+              "chap": "21"
+            }
+          },
+          "name": "21",
+          "id": "21",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 25576,
+      "likes": 335,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Manhwa",
+        "Ngôn Tình",
+        "Cổ Đại",
+        "Truyện Màu"
+      ],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vi-bao-chua-cua-toi-sao-lai-hoa-tre-roi-13830"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/vi-bao-chua-cua-toi-sao-lai-hoa-tre-roi_1677808877.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Vị Bạo Chúa Của Tôi Sao Lại Hóa Trẻ Rồi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "vi-bao-chua-cua-toi-sao-lai-hoa-tre-roi-13830",
+              "chap": "25"
+            }
+          },
+          "name": "25",
+          "id": "25",
+          "updated_at": 1694344240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 56099,
+      "likes": 760,
+      "comments": null,
+      "tags": ["Drama", "Fantasy", "Manhwa", "Ngôn Tình", "Truyện Màu"],
+      "description": "Tôi đã sở hữu cơ thể của một nhân vật trong cuốn tiểu thuyết. Trong cuốn tiểu thuyết đó, tôi là fan cứng của OTP ‘nữ chính × hoàng đế’\r\nCái ngày mà giọt nước mắt của tôi rơi xuống vì hai nhân vật yêu thích của mình không đến được với nhau, tôi đã được chuyển đến đây để trải nghiệm qua câu chuyện này...."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "quy-co-ngan-hang-13828" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/quy-co-ngan-hang_1677808775.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Quý Cô Ngân Hàng",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "quy-co-ngan-hang-13828",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1685877040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 7481,
+      "likes": 178,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Historical", "Ngôn Tình", "Truyện Màu"],
+      "description": "Adriana, đóa hoa của giới thượng lưu, người được mệnh danh là hiện thân của nữ thần.Nhưng cô lại bị cuốn vào một âm mưu khiến cho gia tộc phá sản. Cô đã phải đối mặt với cái chết bi thảm bởi người hầu, nhân tình của người chồng cô yêu.Nhưng đột nhiên cô quay trở về 8 năm trước, mọi thứ cứ như mơ.Để ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "cai-gia-khi-huy-hon-13790"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/cai-gia-khi-huy-hon_1677053772.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Cái Giá Khi Huỷ Hôn.",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "cai-gia-khi-huy-hon-13790",
+              "chap": "28"
+            }
+          },
+          "name": "28",
+          "id": "28",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 109680,
+      "likes": 1143,
+      "comments": null,
+      "tags": ["Drama", "Fantasy", "Manhwa", "Cổ Đại", "Truyện Màu"],
+      "description": "Rõ ràng đó là trò đùa của Chúa.\r\n“Bạn đời của điện hạ là tiểu thư hầu tước Rurtella”\r\nNgay khi sinh ra, tôi đã được chọn làm thái tử phi và sống theo cách đó. Nhưng mọi thứ đã thay đổi trong một buổi sáng. Quyền lực, địa vị, thái độ của mọi người.\r\nTôi đã nghĩ rằng tình yêu của anh ta sẽ không thay đổi..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "tro-thanh-co-chau-gai-bi-khinh-miet-cua-gia-toc-vo-lam-13758"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/tro-thanh-co-chau-gai-bi-khinh-miet-cua-gia-toc-vo-lam_1676522874.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Trở Thành Cô Cháu Gái Bị Khinh Miệt Của Gia Tộc Võ Lâm",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "tro-thanh-co-chau-gai-bi-khinh-miet-cua-gia-toc-vo-lam-13758",
+              "chap": "42"
+            }
+          },
+          "name": "42",
+          "id": "42",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 153208,
+      "likes": 1545,
+      "comments": null,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Cô xuyên không trở thành một nhân vật chính trong thế giới võ lâm. Cô trở thành BaekRi Yeon, đứa con gái ngốc nghếch và quậy phá của BaekRi Eui Kang, một người thầy chân chính và là người đã dẫn dắt nhân vật nam chính trở thành một anh hùng.\r\nSau khi bất ngờ bị giết, cô mở mắt ra và trở thành một đứa..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "khong-co-noi-nao-danh-cho-cong-chua-gia-mao-13755"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/khong-co-noi-nao-danh-cho-cong-chua-gia-mao_1676522513.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Không Có Nơi Nào Dành Cho Công Chúa Giả Mạo",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "khong-co-noi-nao-danh-cho-cong-chua-gia-mao-13755",
+              "chap": "38"
+            }
+          },
+          "name": "38",
+          "id": "38",
+          "updated_at": 1695121840786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 172306,
+      "likes": 1855,
+      "comments": null,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Webtoon",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Philomel – công chúa giả mạo – âm mưu cùng mẹ đóng giả thân phận công chúa và là người đã gây ra cuộc chiến giữa Tháp Pháp sư và Đế quốc.\r\nKhi tội ác của cô bị vạch trần, cô đã bị kết án tử hình.\r\nCái chết này thật sự phù hợp với một kẻ ác-\r\n“Kể cả khi Philomel đã làm những điều sai trái, thì vẫn không..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "vi-khach-dac-biet-cua-toi-13754"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/vi-khach-dac-biet-cua-toi_1676522440.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Vị Khách Đặc Biệt Của Tôi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "vi-khach-dac-biet-cua-toi-13754",
+              "chap": "9"
+            }
+          },
+          "name": "9",
+          "id": "9",
+          "updated_at": 1688469040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 13922,
+      "likes": 162,
+      "comments": null,
+      "tags": [
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Historical",
+        "Josei",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Bị đày khỏi cõi thiên đàng vì can thiệp vào số phận của một người trần, Juhee người hiện đang sống một cuộc sống phàm trần với tư cách là chủ của một hiệu sách. Khi cô ấy bất ngờ nhận được thông báo, rằng mình sẽ bị trục xuất khỏi nơi này, Juhee đã đến gặp chủ nhà của mình để bào chữa. Nhưng bả sẽ l..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "dac-chung-binh-manh-nhat-chinh-phuc-ham-nguc-tai-di-gioi-13736"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/dac-chung-binh-manh-nhat-chinh-phuc-ham-nguc-tai-di-gioi_1676518910.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Đặc Chủng Binh Mạnh Nhất Chinh Phục Hầm Ngục Tại Dị Giới",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "dac-chung-binh-manh-nhat-chinh-phuc-ham-nguc-tai-di-gioi-13736",
+              "chap": "23"
+            }
+          },
+          "name": "23",
+          "id": "23",
+          "updated_at": 1693653040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 47032,
+      "likes": 737,
+      "comments": null,
+      "tags": ["Fantasy", "Shounen", "Manhwa", "Xuyên Không", "Truyện Màu"],
+      "description": "Hasumi Ryuuji, người đàn ông được gọi là \"Binh chủng mạnh nhất thời hiện đại\", một người có thể thực hiện thành công nhiều chiến lược khó khăn, đã xuyên tới trong hầm ngục vực sâu dị giới. Một \"giọng nói vang lên\" vang vọng bên trong bộ não của anh ấy và hướng dẫn anh ấy - \"Chào mừng, anh hùng đến t..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "nu-chinh-muon-toi-tro-thanh-chi-dau-cua-co-ay-13700"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/nu-chinh-muon-toi-tro-thanh-chi-dau-cua-co-ay_1675668728.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Nữ Chính Muốn Tôi Trở Thành Chị Dâu Của Cô Ấy",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "nu-chinh-muon-toi-tro-thanh-chi-dau-cua-co-ay-13700",
+              "chap": "30"
+            }
+          },
+          "name": "30",
+          "id": "30",
+          "updated_at": 1691061040786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 142895,
+      "likes": 1351,
+      "comments": null,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Shoujo",
+        "Manhwa",
+        "Webtoon",
+        "Truyện Màu"
+      ],
+      "description": "Tôi đang ở trong thế giới của một cuốn tiểu thuyết R19 dựa trên cô bé quàng khăn đỏ ăn thịt những con sói. Vấn đề chính là em trai tôi lại là một con sói. Tôi cùng em trai sống ẩn ở sâu trong rừng, nơi mà cô bé quàng khăn đỏ không th tìm thấy được chúng tôi, và chúng tôi có thể trốn thoát đến thế g..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "ngon-gio-dong-xu-altas-13693"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ngon-gio-dong-xu-altas_1675477177.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Ngọn Gió Đông Xứ Altas",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ngon-gio-dong-xu-altas-13693",
+              "chap": "13"
+            }
+          },
+          "name": "13",
+          "id": "13",
+          "updated_at": 1695121840786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 25077,
+      "likes": 392,
+      "comments": null,
+      "tags": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Manhwa",
+        "Historical",
+        "Webtoon",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
+      "description": "Người dân của Genevu luôn phải sống trong áp bức khi phải gánh khoản nợ khổng lồ. Nhưng rồi một ngày, cô thôn nữ Claire vô tình gặp nguy hiểm do chú ngựa yêu quý của hầu tước Balt Morenheitz gây ra, buộc anh phải ra tay kết liễu nó để cứu tính mạng cô. Sau đó, Claire phải qua đêm cùng Balt để trả ơn..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "bastian-13692" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/bastian_1675477097.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Bastian",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "bastian-13692-chap-31-2"
+            }
+          },
+          "name": "31.2",
+          "id": "bastian-13692-chap-31-2",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 134097,
+      "likes": 1132,
+      "comments": null,
+      "tags": ["Fantasy", "Manhwa", "Ngôn Tình", "Cổ Đại", "Truyện Màu"],
+      "description": "Cháu trai của người buôn đồ cổ và công chúa ăn xin kết hôn với nhau.\r\nThời hạn hiệu lực là hai năm, và đó là một hợp đồng để thúc đẩy lợi ích hai bên.\r\nMột sĩ quan hải quân đầy triển vọng và một người đàn ông siêu giàu có, cháu trai của một người buôn bán đồ cổ, người bị coi thường vì dòng máu tầm thư..."
+    }
+  ],
+  "curPage": 1,
+  "maxPage": 11
+}
