@@ -35,8 +35,8 @@ devDependencies:
     specifier: ^8.50.0
     version: 8.50.0
   happy-dom:
-    specifier: ^12.2.0
-    version: 12.2.0
+    specifier: ^12.5.0
+    version: 12.5.0
   prettier:
     specifier: ^3.0.3
     version: 3.0.3
@@ -51,7 +51,7 @@ devDependencies:
     version: 4.4.9(@types/node@20.7.2)
   vitest:
     specifier: ^0.34.4
-    version: 0.34.4(happy-dom@12.2.0)
+    version: 0.34.4(happy-dom@12.5.0)
   vue-router:
     specifier: ^4.2.4
     version: 4.2.5(vue@3.3.4)
@@ -2032,8 +2032,8 @@ packages:
     resolution: {integrity: sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==}
     dev: true
 
-  /happy-dom@12.2.0:
-    resolution: {integrity: sha512-n9MwvjBUhkNplw74hTCTUOqR67JWgJllnVAgB8c7U+AI+EQp7PdUYFOOfrjEeOmEqsRPUT6lwwM7NjCj6vEZ4g==}
+  /happy-dom@12.5.0:
+    resolution: {integrity: sha512-bEieZxuWNc6RrTQmOkaYSxqni2TkTItsId4SimAzW/Wo2cxuPP3qL6gWV/LsBH2s4DV5HZRLwciEtmhgwJJWNw==}
     dependencies:
       css.escape: 1.5.1
       entities: 4.5.0
@@ -3166,7 +3166,7 @@ packages:
       fsevents: 2.3.3
     dev: true
 
-  /vitest@0.34.4(happy-dom@12.2.0):
+  /vitest@0.34.4(happy-dom@12.5.0):
     resolution: {integrity: sha512-SE/laOsB6995QlbSE6BtkpXDeVNLJc1u2LHRG/OpnN4RsRzM3GQm4nm3PQCK5OBtrsUqnhzLdnT7se3aeNGdlw==}
     engines: {node: '>=v14.18.0'}
     hasBin: true
@@ -3210,7 +3210,7 @@ packages:
       cac: 6.7.14
       chai: 4.3.8
       debug: 4.3.4
-      happy-dom: 12.2.0
+      happy-dom: 12.5.0
       local-pkg: 0.4.3
       magic-string: 0.30.3
       pathe: 1.1.1

@@ -31,7 +31,7 @@
     "esbuild": "^0.19.2",
     "esbuild-runner": "^2.2.2",
     "eslint": "^8.50.0",
-    "happy-dom": "^12.2.0",
+    "happy-dom": "^12.5.0",
     "prettier": "^3.0.3",
     "tsx": "^3.12.7",
     "typescript": "^5.2.2",
