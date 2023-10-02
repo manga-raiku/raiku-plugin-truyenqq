@@ -29,7 +29,7 @@
     "@types/node": "^20.7.2",
     "@vitest/ui": "^0.34.6",
     "bumpp": "^9.2.0",
-    "esbuild": "^0.19.2",
+    "esbuild": "^0.19.4",
     "esbuild-runner": "^2.2.2",
     "eslint": "^8.50.0",
     "happy-dom": "^12.2.0",
