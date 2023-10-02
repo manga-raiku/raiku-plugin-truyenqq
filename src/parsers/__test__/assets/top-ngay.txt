@@ -429,11 +429,7 @@
                     <p class="info">Lượt theo dõi: 42,844</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Fantasy</p><p class="blue">Shounen</p><p class="blue">Supernatural</p><p class="blue">Manhua</p>                    </div>
-                    <div class="excerpt">Võ đạo đỉnh phong, là cô độc, là tịch mịch, là dài đằng đẵng cầu tác, là cao xử bất thắng hàn
-
-Phát triển trong nghịch cảnh, cầu sinh nơi tuyệt địa, bất khuất không buông tha, mới có thể có thể phá võ chi cực đạo.
-
-Lăng Tiêu các thí luyện đệ tử kiêm quét rác gã sai vặt Dương Khai ngẫu lấy được một...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -502,13 +498,7 @@ Lăng Tiêu các thí luyện đệ tử kiêm quét rác gã sai vặt Dương 
                     <p class="info">Lượt theo dõi: 44,777</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Fantasy</p><p class="blue">Shounen</p><p class="blue">Supernatural</p><p class="blue">Demons</p>                    </div>
-                    <div class="excerpt">
-
-Yuuji Itadori là một thiên tài có tốc độ và sức mạnh, nhưng cậu ấy muốn dành thời gian của mình trong Câu lạc bộ Tâm Linh. Một ngày sau cái chết của ông mình, anh gặp Megumi Fushiguro, người đang tìm kiếm vật thể bị nguyền rủa mà các thành viên CLB đã tìm thấy.
-
-
-
-Đối mặt với những con quái vật ...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -1137,9 +1127,7 @@ Yuuji Itadori là một thiên tài có tốc độ và sức mạnh, nhưng c�
                     <p class="info">Lượt theo dõi: 17,382</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Fantasy</p><p class="blue">Manhwa</p><p class="blue">Webtoon</p><p class="blue">Truyện Màu</p>                    </div>
-                    <div class="excerpt">Chỉ mình tôi mới biết được kết cục của thế giới này.
-Vào một ngày nọ, nhân vật chính của chúng ta bị kẹt trong thế giới của bộ tiểu thuyết mà anh ấy yêu thích. Anh ấy sẽ làm gì để sống sót? Khi mà thế giới đó là nơi ngập tràn tai ương và hiểm nguy.
-Năng lực của anh ấy? Anh ấy biết mọi tình tiết của ...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -1772,10 +1760,7 @@ Năng lực của anh ấy? Anh ấy biết mọi tình tiết của ...</div>
                     <p class="info">Lượt theo dõi: 6,145</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Manhua</p><p class="blue">Truyện Màu</p>                    </div>
-                    <div class="excerpt">Trên mảnh đất chết này, văn minh nhân loại chỉ có thể kéo dài hơi tàn.
-Từng tòa nhà được gọi là hàng rào dần mọc lên, luật pháp và trật tự sụp đổ.
-Có người nói, khi thảm họa phủ xuống trái đất, ý chí của con người là vũ khí đệ nhất để vượt qua nguy hiểm.
-Có người nói, đừng để bi ai của thời đại trở ...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 

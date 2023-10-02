@@ -1029,10 +1029,7 @@
                     <p class="info">Lượt theo dõi: 17,245</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Fantasy</p><p class="blue">Manhwa</p><p class="blue">Webtoon</p><p class="blue">Truyện Màu</p>                    </div>
-                    <div class="excerpt">Chỉ mình tôi mới biết được kết cục của thế giới này.
-Vào một ngày nọ, nhân vật chính của chúng ta bị kẹt trong thế giới của bộ tiểu thuyết mà anh ấy yêu thích. Anh ấy sẽ làm gì để sống sót? Khi mà thế giới đó là nơi ngập tràn tai ương và hiểm nguy.
-Năng lực của anh ấy? Anh ấy biết mọi tình tiết của ...</div>
-                </div>
+                    <div class="excerpt">a</div>
             </div>
 
             <div class="clear"></div>
@@ -1065,8 +1062,7 @@ Năng lực của anh ấy? Anh ấy biết mọi tình tiết của ...</div>
                     <p class="info">Lượt theo dõi: 2,315</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Manhwa</p><p class="blue">Truyện Màu</p>                    </div>
-                    <div class="excerpt">Một ngày nọ, một tòa tháp bí ẩn đột nhiên xuất hiện trong thành phố. Mọi người quyết định gọi nó là ngục tối, và mặc dù nó có địa hình hiểm trở và quái vật nguy hiểm, nhưng nó cũng là vùng đất của cơ hội, nơi có vô số kho báu đang chờ đợi.
-Khi Sejun, một chàng trai trẻ sống một cuộc sống bình thườn...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -1170,9 +1166,7 @@ Khi Sejun, một chàng trai trẻ sống một cuộc sống bình thườn...<
                     <p class="info">Lượt theo dõi: 8,072</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Adventure</p><p class="blue">Martial Arts</p><p class="blue">Manhwa</p><p class="blue">Truyện Màu</p>                    </div>
-                    <div class="excerpt">Yggdrasil, cây thế giới trong thần thoại Bắc Âu, đột nhiên xuất hiện trên Trái Đất. Cùng với nó là các sinh vật hắc ám tàn phá toàn bộ thành phố.
-Dù vậy nhờ có Hệ thống một vài nhân loại có được, hy vọng vẫn chưa mất đi hoàn toàn.
-Ở thế giới chỉ kẻ mạnh tồn tại này, Min Jaehyun gục ngã do chìm trong...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 

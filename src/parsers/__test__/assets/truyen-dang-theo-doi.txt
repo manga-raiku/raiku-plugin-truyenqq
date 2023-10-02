@@ -407,8 +407,7 @@
                     <p class="info">Lượt theo dõi: 8,849</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Manhua</p><p class="blue">Truyện Màu</p><p class="blue">Truyện Màu</p>                    </div>
-                    <div class="excerpt">Truyện mô típ cũ nhưng thấy nét vẽ đẹp nên Ốc sẽ theo. Lần đầu dịch truyện thể loại tu tiên cổ trang có gì sai sót mong mọi người ném ít donate, phiếu đọc truyện, vàng... cho đầu óc Ốc thông minh thêm chút. Không sai, càng ném nhiều Ốc sẽ càng thông minh :D
-Lý Thiên mệnh nằm mơ cũng không thể ngờ đá...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -516,9 +515,7 @@ Lý Thiên mệnh nằm mơ cũng không thể ngờ đá...</div>
                     <p class="info">Lượt theo dõi: 2,172</p>
                     <div class="list-tags">
                         <p class="blue">Comedy</p><p class="blue">Fantasy</p><p class="blue">Romance</p><p class="blue">Seinen</p><p class="blue">Slice Of Life</p><p class="blue">Slice Of Life</p>                    </div>
-                    <div class="excerpt">Cuộc sống của Nakano, một nhân viên quèn làm công ăn lương, đã bị xáo trộn sau khi anh gặp một em hồ ly loli là Senko-san (800 tuổi).
-Và thế là thanh niên FA có một con maid nấu ăn, lau chùi, dọn dẹp nhà cửa hộ và lo cho anh như con đẻ...
-</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -953,10 +950,7 @@ Và thế là thanh niên FA có một con maid nấu ăn, lau chùi, dọn dẹ
                     <p class="info">Lượt theo dõi: 3,784</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Fantasy</p><p class="blue">Manhua</p><p class="blue">Martial Arts</p><p class="blue">Cổ Đại</p><p class="blue">Truyện Màu</p><p class="blue">Huyền Huyễn</p><p class="blue">Huyền Huyễn</p>                    </div>
-                    <div class="excerpt">Tiên thiên đạo thể tiên linh huyết, tiêu dao tự tại chăn trâu nuôi mèo.
-
-Vì mục tiêu của tiểu tông môn, bị bán xuống núi! Tiện tay xoa hoàn liền luyện thành cửu phẩm tiên đan, khẽ vươn tay liền có thượng cổ lôi pháp, nhận nhiệm vụ lúc lâm nguy lại bị yêu cầu không nói lời nào trang cao thủ.
-</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -1280,8 +1274,7 @@ Vì mục tiêu của tiểu tông môn, bị bán xuống núi! Tiện tay xoa 
                     <p class="info">Lượt theo dõi: 428</p>
                     <div class="list-tags">
                         <p class="blue">Drama</p><p class="blue">Fantasy</p><p class="blue">Adult</p><p class="blue">Shoujo Ai</p><p class="blue">Shoujo Ai</p>                    </div>
-                    <div class="excerpt">Những kẻ từ thế giới khác lạc đến thế giới này được gọi là những "lạc nhân" và họ là nguyên nhân dẫn đến một thảm họa trong quá khứ thế nên họ sẽ bị xét xử bởi "Executioner",
-Menou một Executioner đã gặp một lạc nhân tên Akari. cô đã giết hắn để trừ hậu họa nhưng Akari lại có thể trở về từ cõi chết ...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
@@ -1495,9 +1488,7 @@ Menou một Executioner đã gặp một lạc nhân tên Akari. cô đã giết
                     <p class="info">Lượt theo dõi: 2,852</p>
                     <div class="list-tags">
                         <p class="blue">Action</p><p class="blue">Adventure</p><p class="blue">Fantasy</p><p class="blue">Shounen</p><p class="blue">Romance</p><p class="blue">Historical</p><p class="blue">Historical</p>                    </div>
-                    <div class="excerpt">Bộ truyện tranh Inuyasha hay còn được gọi là Khuyển Dạ Xoa có tên ban đầu là Sengoku Otogizōshi InuYasha là bộ truyện tranh của tác giả Takahashi Rumiko kể về câu chuyện phiêu lưu về quá khứ kỳ lạ của một nữ sinh trung học Kagome cùng với nhân vật chinh là một bán yêu có tên Inu Yasha.
-
-Mở đầu câu c...</div>
+                    <div class="excerpt">a</div>
                 </div>
             </div>
 
