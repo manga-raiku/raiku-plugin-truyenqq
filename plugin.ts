@@ -67,6 +67,7 @@ class TruyenQQ implements API {
     return mangaList(mangaId)
   }
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   async searchQuickly(keyword: string, _page: number) {
     return presearch(keyword)
   }
