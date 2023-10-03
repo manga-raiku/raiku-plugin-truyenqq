@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 import type { Ranking, Server } from "raiku-pgs/plugin"
 
-export const CURL = "https://truyenqqvn.com/"
+export const CURL = "https://truyenqqvn.com"
 
 const replaceHosts = {
   "mangaqq.net": "i200.truyenvua.com",
