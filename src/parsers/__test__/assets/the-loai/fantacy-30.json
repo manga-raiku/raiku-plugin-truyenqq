@@ -468,7 +468,8 @@
         "Manhwa",
         "Truyện Màu"
       ],
-      "description": "a"    },
+      "description": "a"
+    },
     {
       "route": {
         "name": "comic",

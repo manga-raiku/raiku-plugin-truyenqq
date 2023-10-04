@@ -146,7 +146,8 @@
       "likes": 8849,
       "comments": null,
       "tags": ["Action", "Manhua", "Truyện Màu", "Truyện Màu"],
-      "description": "a"    },
+      "description": "a"
+    },
     {
       "route": {
         "name": "comic",
@@ -268,7 +269,8 @@
         "Slice Of Life",
         "Slice Of Life"
       ],
-      "description": "a"  },
+      "description": "a"
+    },
     {
       "route": {
         "name": "comic",
@@ -742,7 +744,8 @@
         "Huyền Huyễn",
         "Huyền Huyễn"
       ],
-      "description": "a"    },
+      "description": "a"
+    },
     {
       "route": {
         "name": "comic",
@@ -1080,7 +1083,8 @@
       "likes": 428,
       "comments": null,
       "tags": ["Drama", "Fantasy", "Adult", "Shoujo Ai", "Shoujo Ai"],
-      "description": "a"    },
+      "description": "a"
+    },
     {
       "route": {
         "name": "comic",
@@ -1310,7 +1314,8 @@
         "Historical",
         "Historical"
       ],
-      "description": "a"    },
+      "description": "a"
+    },
     {
       "route": {
         "name": "comic",
