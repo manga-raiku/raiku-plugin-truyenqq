@@ -1,1 +1,1 @@
-import "./package.ts"
+import "http://localhost:5173/package.ts"
