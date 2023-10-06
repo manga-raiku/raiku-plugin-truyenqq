@@ -1,5 +1,6 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 import type { Ranking, Server } from "raiku-pgs/plugin"
+import { withProxyImage } from "src/logic/with-proxy-image"
 
 export const CURL = "https://truyenqqvn.com"
 
@@ -14,24 +15,20 @@ const replaceHosts = {
   "i125.tintruyen.net": "i125.truyenvua.com",
   "qqtaku.com": "i125.truyenvua.com"
 }
+
+const headers = {
+  referer: CURL
+}
 export const Servers: Server[] = [
   {
     name: "Server 1",
     has: () => true,
-    parse: (item) => item.src
+    parse: (item) => withProxyImage(item.src, headers)
   },
   {
     name: "Server 2",
     has: (item) => item.original !== null,
-    parse: (item) => item.original!
-  },
-  {
-    name: "Server 3",
-    has: () => true,
-    parse: (item) =>
-      `https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&resize_h=0&rewriteMime=image%2F*&url=${encodeURIComponent(
-        item.src
-      )}`
+    parse: (item) => withProxyImage(item.original!, headers)
   },
   {
     name: "Server 4",
@@ -45,19 +42,19 @@ export const Servers: Server[] = [
       // eslint-disable-next-line functional/no-loop-statements
       for (const host in replaceHosts) {
         if (item.original?.includes(host)) {
-          return item.original.replace(
+          return withProxyImage(item.original.replace(
             host,
             replaceHosts[host as keyof typeof replaceHosts]
-          )
+          ), headers)
         }
       }
-      return item.original!
+      return withProxyImage(item.original!, headers)
     }
   },
   {
     name: "Server 5",
     has: (item) => item.cdn !== null,
-    parse: (item) => item.cdn!
+    parse: (item) => withProxyImage(item.cdn!, headers)
   }
 ]
 
