@@ -17,9 +17,7 @@ import presearch from "src/runs/frontend/pre-search"
 import timKiem from "src/runs/tim-kiem"
 import Slug from "src/runs/truyen-tranh/[slug]"
 import SlugChapChap from "src/runs/truyen-tranh/[slug]-chap-[chap]"
-
-const Rankings: Ranking[] = []
-const Servers: Server[] = []
+import { Rankings, Servers } from "src/const"
 
 class TruyenQQ implements API {
   public readonly Rankings = Rankings
