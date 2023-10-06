@@ -4,10 +4,9 @@ import {
   defineApi,
   type FetchGet,
   type FetchPost,
-  type ID,
-  type Ranking,
-  type Server
+  type ID
 } from "raiku-pgs/plugin"
+import { Rankings, Servers } from "src/const"
 import index from "src/runs"
 import General from "src/runs/[general]"
 import BangXepHang from "src/runs/bang-xep-hang/[type]"
@@ -17,7 +16,6 @@ import presearch from "src/runs/frontend/pre-search"
 import timKiem from "src/runs/tim-kiem"
 import Slug from "src/runs/truyen-tranh/[slug]"
 import SlugChapChap from "src/runs/truyen-tranh/[slug]-chap-[chap]"
-import { Rankings, Servers } from "src/const"
 
 class TruyenQQ implements API {
   public readonly Rankings = Rankings

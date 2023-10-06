@@ -42,10 +42,13 @@ export const Servers: Server[] = [
       // eslint-disable-next-line functional/no-loop-statements
       for (const host in replaceHosts) {
         if (item.original?.includes(host)) {
-          return withProxyImage(item.original.replace(
-            host,
-            replaceHosts[host as keyof typeof replaceHosts]
-          ), headers)
+          return withProxyImage(
+            item.original.replace(
+              host,
+              replaceHosts[host as keyof typeof replaceHosts]
+            ),
+            headers
+          )
         }
       }
       return withProxyImage(item.original!, headers)
