@@ -39,6 +39,6 @@ export default async function <Fast extends boolean>(
       }
     ).chapters = await ParseMangaList(data)
   }
-
+  
   return result
 }

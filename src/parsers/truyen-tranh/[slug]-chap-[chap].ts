@@ -5,6 +5,7 @@ import type {
   RouteComic,
   RouteComicChap
 } from "raiku-pgs/plugin"
+import { normalizeChName } from "raiku-pgs/plugin"
 import { parseRouteComic } from "src/logic/parse-route-comic"
 
 import { parseComment } from "../__helpers__/parseComment"
@@ -66,7 +67,7 @@ export default function chap<Fast extends boolean>(
       return {
         route,
         id: route.params.chap,
-        name,
+        name: normalizeChName($item.text().trim()),
         updated_at: null, // parseDate($time.text()),
         views: null
       }
