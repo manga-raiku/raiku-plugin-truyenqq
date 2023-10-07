@@ -11,6 +11,7 @@
     "pretit": "prettier ./src",
     "lint": "eslint --ext .js,.ts ./ --fix",
     "test": "vitest",
+    "test:ci": "vitest --run",
     "dev": "vite",
     "build": "tsx ./scripts/build.ts",
     "typing": "tsc --noEmit",
