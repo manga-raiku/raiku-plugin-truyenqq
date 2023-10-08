@@ -13,5 +13,7 @@ export const meta = definePackage({
   description,
   author,
   homepage,
+  isNSFW: false,
+  language: "vi",
   updatedAt: import.meta.env.DEV ? Date.now() : __NOW__
 })
