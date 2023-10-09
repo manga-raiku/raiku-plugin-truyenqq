@@ -15,8 +15,10 @@ export default function index(
     .map((child): MetaManga => {
       const $child = $(child)
 
-      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-      const route = parseRouteComic($child.find("a").attr("href")!)
+      const route = parseRouteComic(
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        $child.find("a").attr("href")!
+      ) as RouteComicChap
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       const image = $child
         .find("img")

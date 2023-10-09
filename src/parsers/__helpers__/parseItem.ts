@@ -29,7 +29,7 @@ export function parseItem(
   const $routeLastChapter = parseRouteComic($last_chapter.path)
   const last_chapters: Chapter[] = [
     {
-      route: $routeLastChapter,
+      route: $routeLastChapter as RouteComicChap,
       name: $last_chapter.name,
       id:
         ($routeLastChapter as RouteComicChap).params.chap ??

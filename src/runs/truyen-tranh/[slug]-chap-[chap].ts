@@ -11,9 +11,11 @@ export default async function <Fast extends boolean>(
   chapId: ID,
   fast: Fast
 ): Promise<
-  ComicChapter & {
-    readonly chapters: Fast extends true ? undefined : Chapter[]
-  }
+  Fast extends true
+    ? ComicChapter
+    : ComicChapter & {
+        readonly chapters: Chapter[]
+      }
 > {
   const { data, url } = await get({
     url: `${CURL}/truyen-tranh/${mangaId}-chap-${chapId}.html`
@@ -21,10 +23,19 @@ export default async function <Fast extends boolean>(
 
   if (pathIsHome(url)) throw new Error("not_found")
 
-  const result = (await Parse(data, Date.now(), fast)) as ComicChapter & {
-    readonly chapters: Fast extends true ? undefined : Chapter[]
-  }
-  if (!result.chapters) {
+  const result = (await Parse(data, Date.now(), fast)) as Fast extends true
+    ? ComicChapter
+    : ComicChapter & {
+        readonly chapters: Chapter[]
+      }
+  if (
+    !fast &&
+    !(
+      result as ComicChapter & {
+        readonly chapters: Chapter[]
+      }
+    ).chapters
+  ) {
     const { data } = await post({
       url: `${CURL}/frontend/manga/list`,
       data: {
