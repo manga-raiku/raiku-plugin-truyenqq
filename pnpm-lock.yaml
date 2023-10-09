@@ -12,8 +12,8 @@ dependencies:
     specifier: ^1.0.4
     version: 1.0.16
   raiku-pgs:
-    specifier: 0.0.9-beta.20
-    version: 0.0.9-beta.20
+    specifier: 0.0.9-beta.22
+    version: 0.0.9-beta.22
 
 devDependencies:
   '@tachibana-shin/eslint-config':
@@ -2723,8 +2723,8 @@ packages:
     resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
     dev: true
 
-  /raiku-pgs@0.0.9-beta.20:
-    resolution: {integrity: sha512-UidxNMC2l7g4dlLsHivnE5djqacC3x3Hj7Kp+aEwgDxkb7JyP0/3TrPlGg9TWcMQAo4fFz7rdDVcMK0Mnr3Spg==}
+  /raiku-pgs@0.0.9-beta.22:
+    resolution: {integrity: sha512-ho8pBgoJVoGnONdiUH38b4cFlj4QD1tGhAPyxYYoJw5hv052VdSjEatJKIsA7u7TQAzkbobJdHQrhsbhmch6aQ==}
     dependencies:
       '@fcanvas/communicate': 1.1.4
       chalk: 4.1.2
