@@ -9,7 +9,7 @@
       "name": "Hiroyuki",
       "route": {
         "name": "author",
-        "params": { "sourceId": "truyenqqq", "type": "hiroyuki-830.html" },
+        "params": { "sourceId": "truyenqqq", "type": "hiroyuki-830" },
         "query": {}
       }
     }
@@ -20,7 +20,7 @@
       "name": "Comedy",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "comedy-28.html" },
+        "params": { "sourceId": "truyenqqq", "type": "comedy-28" },
         "query": {}
       }
     },
@@ -28,7 +28,7 @@
       "name": "Shounen",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "shounen-31.html" },
+        "params": { "sourceId": "truyenqqq", "type": "shounen-31" },
         "query": {}
       }
     },
@@ -36,7 +36,7 @@
       "name": "Romance",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "romance-36.html" },
+        "params": { "sourceId": "truyenqqq", "type": "romance-36" },
         "query": {}
       }
     },
@@ -44,7 +44,7 @@
       "name": "School Life",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "school-life-37.html" },
+        "params": { "sourceId": "truyenqqq", "type": "school-life-37" },
         "query": {}
       }
     },
@@ -52,7 +52,7 @@
       "name": "Slice Of Life",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "slice-of-life-46.html" },
+        "params": { "sourceId": "truyenqqq", "type": "slice-of-life-46" },
         "query": {}
       }
     },
@@ -60,7 +60,7 @@
       "name": "Harem",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "harem-47.html" },
+        "params": { "sourceId": "truyenqqq", "type": "harem-47" },
         "query": {}
       }
     }

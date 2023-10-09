@@ -9,7 +9,7 @@
       "name": "Đang Cập Nhật",
       "route": {
         "name": "author",
-        "params": { "sourceId": "truyenqqq", "type": "dang-cap-nhat-239.html" },
+        "params": { "sourceId": "truyenqqq", "type": "dang-cap-nhat-239" },
         "query": {}
       }
     }
@@ -20,7 +20,7 @@
       "name": "Adventure",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "adventure-27.html" },
+        "params": { "sourceId": "truyenqqq", "type": "adventure-27" },
         "query": {}
       }
     },
@@ -28,7 +28,7 @@
       "name": "Fantasy",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "fantasy-30.html" },
+        "params": { "sourceId": "truyenqqq", "type": "fantasy-30" },
         "query": {}
       }
     },
@@ -36,7 +36,7 @@
       "name": "Manhua",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "manhua-35.html" },
+        "params": { "sourceId": "truyenqqq", "type": "manhua-35" },
         "query": {}
       }
     },
@@ -44,7 +44,7 @@
       "name": "Romance",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "romance-36.html" },
+        "params": { "sourceId": "truyenqqq", "type": "romance-36" },
         "query": {}
       }
     },
@@ -52,7 +52,7 @@
       "name": "Webtoon",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "webtoon-55.html" },
+        "params": { "sourceId": "truyenqqq", "type": "webtoon-55" },
         "query": {}
       }
     },
@@ -60,7 +60,7 @@
       "name": "Truyện Màu",
       "route": {
         "name": "genre",
-        "params": { "sourceId": "truyenqqq", "type": "truyen-mau-92.html" },
+        "params": { "sourceId": "truyenqqq", "type": "truyen-mau-92" },
         "query": {}
       }
     }

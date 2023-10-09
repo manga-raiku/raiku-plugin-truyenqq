@@ -8,7 +8,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "action-26.html" },
+            "params": { "sourceId": "truyenqqq", "type": "action-26" },
             "query": {}
           },
           "name": "Action"
@@ -16,7 +16,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "adventure-27.html" },
+            "params": { "sourceId": "truyenqqq", "type": "adventure-27" },
             "query": {}
           },
           "name": "Adventure"
@@ -24,7 +24,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "anime-62.html" },
+            "params": { "sourceId": "truyenqqq", "type": "anime-62" },
             "query": {}
           },
           "name": "Anime"
@@ -34,7 +34,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "chuyen-sinh-91.html"
+              "type": "chuyen-sinh-91"
             },
             "query": {}
           },
@@ -43,7 +43,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "co-dai-90.html" },
+            "params": { "sourceId": "truyenqqq", "type": "co-dai-90" },
             "query": {}
           },
           "name": "Cổ Đại"
@@ -51,7 +51,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "comedy-28.html" },
+            "params": { "sourceId": "truyenqqq", "type": "comedy-28" },
             "query": {}
           },
           "name": "Comedy"
@@ -59,7 +59,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "comic-60.html" },
+            "params": { "sourceId": "truyenqqq", "type": "comic-60" },
             "query": {}
           },
           "name": "Comic"
@@ -67,7 +67,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "demons-99.html" },
+            "params": { "sourceId": "truyenqqq", "type": "demons-99" },
             "query": {}
           },
           "name": "Demons"
@@ -75,7 +75,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "detective-100.html" },
+            "params": { "sourceId": "truyenqqq", "type": "detective-100" },
             "query": {}
           },
           "name": "Detective"
@@ -83,7 +83,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "doujinshi-96.html" },
+            "params": { "sourceId": "truyenqqq", "type": "doujinshi-96" },
             "query": {}
           },
           "name": "Doujinshi"
@@ -91,7 +91,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "drama-29.html" },
+            "params": { "sourceId": "truyenqqq", "type": "drama-29" },
             "query": {}
           },
           "name": "Drama"
@@ -99,7 +99,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "fantasy-30.html" },
+            "params": { "sourceId": "truyenqqq", "type": "fantasy-30" },
             "query": {}
           },
           "name": "Fantasy"
@@ -109,7 +109,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "gender-bender-45.html"
+              "type": "gender-bender-45"
             },
             "query": {}
           },
@@ -118,7 +118,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "harem-47.html" },
+            "params": { "sourceId": "truyenqqq", "type": "harem-47" },
             "query": {}
           },
           "name": "Harem"
@@ -126,7 +126,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "historical-51.html" },
+            "params": { "sourceId": "truyenqqq", "type": "historical-51" },
             "query": {}
           },
           "name": "Historical"
@@ -134,7 +134,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "horror-44.html" },
+            "params": { "sourceId": "truyenqqq", "type": "horror-44" },
             "query": {}
           },
           "name": "Horror"
@@ -144,7 +144,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "huyen-huyen-468.html"
+              "type": "huyen-huyen-468"
             },
             "query": {}
           },
@@ -153,7 +153,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "isekai-85.html" },
+            "params": { "sourceId": "truyenqqq", "type": "isekai-85" },
             "query": {}
           },
           "name": "Isekai"
@@ -161,7 +161,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "josei-54.html" },
+            "params": { "sourceId": "truyenqqq", "type": "josei-54" },
             "query": {}
           },
           "name": "Josei"
@@ -169,7 +169,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "mafia-69.html" },
+            "params": { "sourceId": "truyenqqq", "type": "mafia-69" },
             "query": {}
           },
           "name": "Mafia"
@@ -177,7 +177,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "magic-58.html" },
+            "params": { "sourceId": "truyenqqq", "type": "magic-58" },
             "query": {}
           },
           "name": "Magic"
@@ -185,7 +185,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "manhua-35.html" },
+            "params": { "sourceId": "truyenqqq", "type": "manhua-35" },
             "query": {}
           },
           "name": "Manhua"
@@ -193,7 +193,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "manhwa-49.html" },
+            "params": { "sourceId": "truyenqqq", "type": "manhwa-49" },
             "query": {}
           },
           "name": "Manhwa"
@@ -203,7 +203,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "martial-arts-41.html"
+              "type": "martial-arts-41"
             },
             "query": {}
           },
@@ -212,7 +212,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "military-101.html" },
+            "params": { "sourceId": "truyenqqq", "type": "military-101" },
             "query": {}
           },
           "name": "Military"
@@ -220,7 +220,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "mystery-39.html" },
+            "params": { "sourceId": "truyenqqq", "type": "mystery-39" },
             "query": {}
           },
           "name": "Mystery"
@@ -228,7 +228,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "ngon-tinh-87.html" },
+            "params": { "sourceId": "truyenqqq", "type": "ngon-tinh-87" },
             "query": {}
           },
           "name": "Ngôn Tình"
@@ -236,7 +236,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "one-shot-95.html" },
+            "params": { "sourceId": "truyenqqq", "type": "one-shot-95" },
             "query": {}
           },
           "name": "One shot"
@@ -246,7 +246,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "psychological-40.html"
+              "type": "psychological-40"
             },
             "query": {}
           },
@@ -255,7 +255,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "romance-36.html" },
+            "params": { "sourceId": "truyenqqq", "type": "romance-36" },
             "query": {}
           },
           "name": "Romance"
@@ -265,7 +265,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "school-life-37.html"
+              "type": "school-life-37"
             },
             "query": {}
           },
@@ -274,7 +274,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "sci-fi-43.html" },
+            "params": { "sourceId": "truyenqqq", "type": "sci-fi-43" },
             "query": {}
           },
           "name": "Sci-fi"
@@ -282,7 +282,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "seinen-42.html" },
+            "params": { "sourceId": "truyenqqq", "type": "seinen-42" },
             "query": {}
           },
           "name": "Seinen"
@@ -290,7 +290,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "shoujo-38.html" },
+            "params": { "sourceId": "truyenqqq", "type": "shoujo-38" },
             "query": {}
           },
           "name": "Shoujo"
@@ -298,7 +298,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "shoujo-ai-98.html" },
+            "params": { "sourceId": "truyenqqq", "type": "shoujo-ai-98" },
             "query": {}
           },
           "name": "Shoujo Ai"
@@ -306,7 +306,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "shounen-31.html" },
+            "params": { "sourceId": "truyenqqq", "type": "shounen-31" },
             "query": {}
           },
           "name": "Shounen"
@@ -314,7 +314,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "shounen-ai-86.html" },
+            "params": { "sourceId": "truyenqqq", "type": "shounen-ai-86" },
             "query": {}
           },
           "name": "Shounen Ai"
@@ -324,7 +324,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "slice-of-life-46.html"
+              "type": "slice-of-life-46"
             },
             "query": {}
           },
@@ -333,7 +333,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "sports-57.html" },
+            "params": { "sourceId": "truyenqqq", "type": "sports-57" },
             "query": {}
           },
           "name": "Sports"
@@ -343,7 +343,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "supernatural-32.html"
+              "type": "supernatural-32"
             },
             "query": {}
           },
@@ -352,7 +352,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "tragedy-52.html" },
+            "params": { "sourceId": "truyenqqq", "type": "tragedy-52" },
             "query": {}
           },
           "name": "Tragedy"
@@ -360,7 +360,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "trong-sinh-82.html" },
+            "params": { "sourceId": "truyenqqq", "type": "trong-sinh-82" },
             "query": {}
           },
           "name": "Trọng Sinh"
@@ -368,7 +368,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "truyen-mau-92.html" },
+            "params": { "sourceId": "truyenqqq", "type": "truyen-mau-92" },
             "query": {}
           },
           "name": "Truyện Màu"
@@ -376,7 +376,7 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "truyenqqq", "type": "webtoon-55.html" },
+            "params": { "sourceId": "truyenqqq", "type": "webtoon-55" },
             "query": {}
           },
           "name": "Webtoon"
@@ -386,7 +386,7 @@
             "name": "genre",
             "params": {
               "sourceId": "truyenqqq",
-              "type": "xuyen-khong-88.html"
+              "type": "xuyen-khong-88"
             },
             "query": {}
           },

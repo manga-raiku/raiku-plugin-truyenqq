@@ -2,6 +2,8 @@ import { sourceId } from "package"
 import type { RouteAuthor } from "raiku-pgs/plugin"
 
 export function parseRouteAuthor(url: string): RouteAuthor {
+  url = url.replace(/\.html$/i, "")
+
   const tt = url.indexOf("/tac-gia/") + 9
   const genre = url
     .slice(tt, url.indexOf("?", tt) >>> 0)

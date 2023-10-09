@@ -3,6 +3,8 @@ import type { RouteComic, RouteComicChap } from "raiku-pgs/plugin"
 
 // https://truyenqqvn.com/truyen-tranh/one-piece-128-chap-1093.html
 export function parseRouteComic(url: string): RouteComic | RouteComicChap {
+  url = url.replace(/\.html$/i, "")
+
   const tt = url.indexOf("/truyen-tranh/") + 14
 
   if (tt === 13)

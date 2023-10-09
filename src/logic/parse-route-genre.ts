@@ -2,6 +2,8 @@ import { sourceId } from "package"
 import type { RouteGenre } from "raiku-pgs/plugin"
 
 export function parseRouteGenre(url: string): RouteGenre {
+  url = url.replace(/\.html$/i, "")
+
   const tt = url.indexOf("/the-loai/") + 10
   const genre = url
     .slice(tt, url.indexOf("?", tt) >>> 0)
