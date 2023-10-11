@@ -23,7 +23,7 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
     "client-ext-animevsub-helper": "^1.0.4",
-    "raiku-pgs": "0.0.9-beta.20"
+    "raiku-pgs": "0.0.9-beta.24"
   },
   "devDependencies": {
     "@tachibana-shin/eslint-config": "^1.1.1",

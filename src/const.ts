@@ -23,41 +23,46 @@ export const Servers: Server[] = [
   {
     name: "Server 1",
     has: () => true,
-    parse: (item) => withProxyImage(item.src, headers)
+    parse: ({ pages }) => pages.map((item) => withProxyImage(item.src, headers))
   },
   {
     name: "Server 2",
-    has: (item) => item.original !== null,
-    parse: (item) => withProxyImage(item.original!, headers)
+    has: ({ pages }) => pages[0].original !== null,
+    parse: ({ pages }) =>
+      pages.map((item) => withProxyImage(item.original!, headers))
   },
   {
     name: "Server 4",
-    has: (item) => {
+    has: ({ pages }) => {
       // eslint-disable-next-line functional/no-loop-statements
-      for (const host in replaceHosts) if (item.cdn?.includes(host)) return true
+      for (const host in replaceHosts)
+        if (pages[0].cdn?.includes(host)) return true
 
       return false
     },
-    parse: (item) => {
-      // eslint-disable-next-line functional/no-loop-statements
-      for (const host in replaceHosts) {
-        if (item.original?.includes(host)) {
-          return withProxyImage(
-            item.original.replace(
-              host,
-              replaceHosts[host as keyof typeof replaceHosts]
-            ),
-            headers
-          )
+    parse: ({ pages }) => {
+      return pages.map((item) => {
+        // eslint-disable-next-line functional/no-loop-statements
+        for (const host in replaceHosts) {
+          if (item.original?.includes(host)) {
+            return withProxyImage(
+              item.original.replace(
+                host,
+                replaceHosts[host as keyof typeof replaceHosts]
+              ),
+              headers
+            )
+          }
         }
-      }
-      return withProxyImage(item.original!, headers)
+        return withProxyImage(item.original!, headers)
+      })
     }
   },
   {
     name: "Server 5",
-    has: (item) => item.cdn !== null,
-    parse: (item) => withProxyImage(item.cdn!, headers)
+    has: ({ pages }) => pages[0].cdn !== null,
+    parse: ({ pages }) =>
+      pages.map((item) => withProxyImage(item.cdn!, headers))
   }
 ]
 
