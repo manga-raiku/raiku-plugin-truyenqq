@@ -1,8 +1,4 @@
-import {
-  type API,
-  defineApi,
-  type ID
-} from "raiku-pgs/plugin"
+import { type API, defineApi, type ID } from "raiku-pgs/plugin"
 import { Rankings, Servers } from "src/const"
 import index from "src/runs"
 import General from "src/runs/[general]"
@@ -18,9 +14,8 @@ class TruyenQQ implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
-  async setup() {
-    return { isSupport: true }
-  }
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  async setup() {}
 
   async index() {
     return index()
