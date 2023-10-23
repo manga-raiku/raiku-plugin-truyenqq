@@ -1,9 +1,6 @@
-import type { GetOption } from "client-ext-animevsub-helper"
 import {
   type API,
   defineApi,
-  type FetchGet,
-  type FetchPost,
   type ID
 } from "raiku-pgs/plugin"
 import { Rankings, Servers } from "src/const"
@@ -21,15 +18,8 @@ class TruyenQQ implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
-  public readonly get: FetchGet<GetOption["responseType"]>
-  public readonly post: FetchPost<GetOption["responseType"]>
-
-  constructor(
-    get: FetchGet<GetOption["responseType"]>,
-    post: FetchPost<GetOption["responseType"]>
-  ) {
-    this.get = get
-    this.post = post
+  async setup() {
+    return { isSupport: true }
   }
 
   async index() {
