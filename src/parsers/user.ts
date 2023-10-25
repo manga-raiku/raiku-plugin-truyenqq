@@ -11,8 +11,8 @@ export default function user(html: string) {
     $("#gender1").attr("checked") !== null
       ? "b"
       : $("#gender2").attr("checked") !== null
-      ? "g"
-      : null
+        ? "g"
+        : null
 
   return { avatar, email, last_name, first_name, sex }
 }
