@@ -1,5 +1,5 @@
 import { type API, defineApi, type ID } from "raiku-pgs/plugin"
-import { Rankings, Servers } from "src/const"
+import { CURL, Rankings, Servers } from "src/const"
 import index from "src/runs"
 import General from "src/runs/[general]"
 import BangXepHang from "src/runs/bang-xep-hang/[type]"
@@ -14,8 +14,13 @@ class TruyenQQ implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
-  // eslint-disable-next-line @typescript-eslint/no-empty-function
-  async setup() {}
+  async setup() {
+    if (AppInfo.extension) {
+      await setReferrers({
+        "#truyenqq": CURL
+      })
+    }
+  }
 
   async index() {
     return index()

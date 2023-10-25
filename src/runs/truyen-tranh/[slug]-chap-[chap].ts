@@ -28,18 +28,19 @@ export default async function <Fast extends boolean>(
     : ComicChapter & {
         readonly chapters: Chapter[]
       }
+  if (fast) return result
   if (
-    !fast &&
     !(
       result as ComicChapter & {
         readonly chapters: Chapter[]
       }
-    ).chapters
+    ).chapters?.length
   ) {
     const { data } = await post({
       url: `${CURL}/frontend/manga/list`,
       data: {
         id: result.manga_id,
+        slug: result.path_manga.params.comic.replace(/-\d+$/, ""),
         order: 1
       }
     })
@@ -48,7 +49,7 @@ export default async function <Fast extends boolean>(
       result as Omit<typeof result, "chapters"> & {
         chapters: Chapter[]
       }
-    ).chapters = await ParseMangaList(data)
+    ).chapters = ParseMangaList(data)
   }
 
   return result
