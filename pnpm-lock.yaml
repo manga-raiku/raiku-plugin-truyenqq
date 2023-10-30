@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -26,8 +26,8 @@ devDependencies:
     specifier: 1.0.0-rc.12
     version: 1.0.0-rc.12
   client-ext-animevsub-helper:
-    specifier: ^1.0.23
-    version: 1.0.23
+    specifier: ^1.0.24
+    version: 1.0.24
   esbuild:
     specifier: ^0.19.5
     version: 0.19.5
@@ -1224,8 +1224,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /client-ext-animevsub-helper@1.0.23:
-    resolution: {integrity: sha512-2BnDOXJlUPdpGli0mjGKNRpecPVg4Zz6vttvIkbDg4Esj9hhQCrwbs++ka3ZQwqQhyUQ0N6SypisagXmlZa4sQ==}
+  /client-ext-animevsub-helper@1.0.24:
+    resolution: {integrity: sha512-+e4tflSg4JRIeFz1LM+rm6zCPq8/dLH6I3NV0GUoaYyicoZevev3s9+AWQefDxyu0+0lboCFz9Qs/3TxT3gVww==}
     engines: {node: '>=10'}
     dev: true
 
