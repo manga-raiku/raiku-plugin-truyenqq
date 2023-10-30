@@ -29,7 +29,7 @@
     "@vitest/ui": "^0.34.6",
     "bumpp": "^9.2.0",
     "cheerio": "1.0.0-rc.12",
-    "client-ext-animevsub-helper": "^1.0.23",
+    "client-ext-animevsub-helper": "^1.0.24",
     "esbuild": "^0.19.5",
     "esbuild-runner": "^2.2.2",
     "eslint": "^8.52.0",
