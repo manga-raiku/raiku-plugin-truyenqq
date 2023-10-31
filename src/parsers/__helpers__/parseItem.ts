@@ -6,7 +6,8 @@ import {
   normalizeChName,
   parseAnchor,
   parseNumber,
-  parseTimeAgo
+  parseTimeAgo,
+  upgradeToHttps
 } from "raiku-pgs/plugin"
 import { parseRouteComic } from "src/logic/parse-route-comic"
 
@@ -18,7 +19,7 @@ export function parseItem(
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
   const route = parseRouteComic($li.find("a").attr("href")!)
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-  const image = $li.find("img").attr("src")!
+  const image = upgradeToHttps($li.find("img").attr("src")!)
   const name = $li.find(".book_name").text().trim()
 
   const $info = $li.find(".more-info .info")

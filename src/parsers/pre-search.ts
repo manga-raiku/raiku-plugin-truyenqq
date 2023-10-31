@@ -1,5 +1,5 @@
 import type { API, QuicklyItem } from "raiku-pgs/plugin"
-import { normalizeChName } from "raiku-pgs/plugin"
+import { normalizeChName, upgradeToHttps } from "raiku-pgs/plugin"
 import { parseRouteComic } from "src/logic/parse-route-comic"
 
 export default function presearch(
@@ -15,7 +15,7 @@ export default function presearch(
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       const route = parseRouteComic($item.attr("href")!)
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-      const image = $item.find("img").attr("src")!
+      const image = upgradeToHttps($item.find("img").attr("src")!)
       const name = $item.find(".name").text()
       const othername = $item.find(".name_other").text()
 

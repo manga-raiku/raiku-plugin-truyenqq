@@ -5,7 +5,7 @@ import type {
   RouteComic,
   RouteComicChap
 } from "raiku-pgs/plugin"
-import { normalizeChName } from "raiku-pgs/plugin"
+import { normalizeChName, upgradeToHttps } from "raiku-pgs/plugin"
 import { parseRouteComic } from "src/logic/parse-route-comic"
 
 import { parseComment } from "../__helpers__/parseComment"
@@ -40,7 +40,7 @@ export default function chap<Fast extends boolean>(
       const $page = $(page)
       return {
         // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        src: $page.attr("src")!,
+        src: upgradeToHttps($page.attr("src")!),
         original: $page.attr("data-original"),
         cdn: $page.attr("data-cdn")
       }

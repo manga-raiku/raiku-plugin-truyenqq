@@ -1,6 +1,6 @@
 import type { Cheerio, Element } from "cheerio"
 import type { Comment } from "raiku-pgs/plugin"
-import { parseTimeAgo } from "raiku-pgs/plugin"
+import { parseTimeAgo, upgradeToHttps } from "raiku-pgs/plugin"
 
 export function parseComment($comment: Cheerio<Element>, now: number): Comment {
   const id =
@@ -10,8 +10,10 @@ export function parseComment($comment: Cheerio<Element>, now: number): Comment {
       .attr("onclick")!
       .match(/addReply\((\d+)\)/)![1]! + ""
   const author: Comment["author"] = {
-    // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-    avatar: $comment.find(".avartar-comment img").attr("data-src")!,
+
+    avatar: upgradeToHttps(
+      $comment.find(".avartar-comment img").attr("data-src")!
+    ),
     name: $comment.find(".outline-content-comment strong").text(),
     level: null,
     chapter: ""

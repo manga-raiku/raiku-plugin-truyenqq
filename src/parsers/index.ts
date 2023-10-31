@@ -1,5 +1,5 @@
 import type { API, Chapter, MetaManga, RouteComicChap } from "raiku-pgs/plugin"
-import { normalizeChName } from "raiku-pgs/plugin"
+import { normalizeChName, upgradeToHttps } from "raiku-pgs/plugin"
 import { parseRouteComic } from "src/logic/parse-route-comic"
 
 import { parseItem } from "./__helpers__/parseItem"
@@ -19,11 +19,10 @@ export default function index(
         // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
         $child.find("a").attr("href")!
       ) as RouteComicChap
-      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-      const image = $child
-        .find("img")
-        .attr("src")!
-        .replace("290x191", "583x386")
+
+      const image = upgradeToHttps(
+        $child.find("img").attr("src")!.replace("290x191", "583x386")
+      )
       const name = $child.find("h3").text()
       const tags =
         $child

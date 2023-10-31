@@ -5,7 +5,8 @@ import {
   parseAnchor,
   parseDate,
   parseNumber,
-  parseTimeAgo
+  parseTimeAgo,
+  upgradeToHttps
 } from "raiku-pgs/plugin"
 import { parseRouteAuthor } from "src/logic/parse-route-author"
 import { parseRouteComic } from "src/logic/parse-route-comic"
@@ -25,7 +26,7 @@ export default function manga(
   const manga_id = parseInt($("#book_id").attr("value")!) + ""
   const updated_at = parseTimeAgo($(".time-chap").eq(0).text().trim(), now)
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-  const image = $(".book_avatar img").attr("src")!
+  const image = upgradeToHttps($(".book_avatar img").attr("src")!)
   const author = $(".author a")
     .toArray()
     .map((item) => {
