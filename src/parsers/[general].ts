@@ -1,6 +1,22 @@
+import type { Cheerio, CheerioAPI } from "cheerio"
 import type { FilterQuery, FilterURI, General } from "raiku-pgs/plugin"
 
 import { parseItem } from "./__helpers__/parseItem"
+
+function getItems(wrap: Cheerio<Element>, $: CheerioAPI) {
+  return wrap.toArray().map((item) => {
+    const $item = $(item)
+    const value = parseInt(
+      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+      $item.find(".icon-checkbox, .icon-tick").attr("data-id")!
+    ).toString()
+    const title =
+      $item.find(".icon-checkbox, .icon-tick").attr("title") ?? undefined
+    const name = $item.text().trim()
+
+    return { name, value, title }
+  })
+}
 
 export default function general(html: string, now: number): General {
   const $ = parseDom(html)
@@ -11,74 +27,33 @@ export default function general(html: string, now: number): General {
   const filterGenre: FilterQuery = {
     type: "Thể loại",
     key: "category",
-    items: $(".genre-item")
-      .toArray()
-      .map((item) => {
-        const $item = $(item)
-        const value = parseInt(
-          // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-          $item.find(".icon-checkbox").attr("data-id")!
-        ).toString()
-        const name = $item.text().trim()
-
-        return { name, value }
-      })
+    items: [
+      {
+        name: "Tất cả",
+        value: ""
+      },
+      ...getItems($(".genre-item"), $)
+    ]
   }
   const filterCounty: FilterQuery = {
     type: "Quốc gia",
     key: "country",
-    items: $("#country option")
-      .toArray()
-      .map((item) => {
-        const $item = $(item)
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        const value = $item.attr("value")!
-        const name = $item.text().trim()
-
-        return { name, value }
-      })
+    items: getItems($("#country option"), $)
   }
   const filterStatus: FilterQuery = {
     type: "Tình trạng",
     key: "status",
-    items: $("#status option")
-      .toArray()
-      .map((item) => {
-        const $item = $(item)
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        const value = $item.attr("value")!
-        const name = $item.text().trim()
-
-        return { name, value }
-      })
+    items: getItems($("#status option"), $)
   }
   const filterMinchapter: FilterQuery = {
     type: "Số chap",
     key: "minchapter",
-    items: $("#minchapter option")
-      .toArray()
-      .map((item) => {
-        const $item = $(item)
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        const value = $item.attr("value")!
-        const name = $item.text().trim()
-
-        return { name, value }
-      })
+    items: getItems($("#minchapter option"), $)
   }
   const filterSort: FilterQuery = {
     type: "Sắp xếp",
     key: "sort",
-    items: $("#sort option")
-      .toArray()
-      .map((item) => {
-        const $item = $(item)
-        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-        const value = $item.attr("value")!
-        const name = $item.text().trim()
-
-        return { name, value }
-      })
+    items: getItems($("#sort option"), $)
   }
 
   const filters: (FilterQuery | FilterURI)[] = [
