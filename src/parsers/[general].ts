@@ -1,5 +1,4 @@
 import type { FilterQuery, FilterURI, General } from "raiku-pgs/plugin"
-import { parseRouteGenre } from "src/logic/parse-route-genre"
 
 import { parseItem } from "./__helpers__/parseItem"
 
@@ -9,69 +8,86 @@ export default function general(html: string, now: number): General {
   const name = $(".homepage_tags h1").text().trim()
   const description = $(".tags_detail").text().trim()
 
-  const filters: (FilterQuery | FilterURI)[] = $(".story-list-bl01 tr")
-    .toArray()
-    .map((item) => {
-      const $item = $(item)
-
-      const type = $item.find("th").text()
-      const select: FilterURI["select"] = $item
-        .find("select option")
-        .toArray()
-        .map((item) => {
-          const $item = $(item)
-
+  const filterGenre: FilterQuery = {
+    type: "Thể loại",
+    key: "category",
+    items: $(".genre-item")
+      .toArray()
+      .map((item) => {
+        const $item = $(item)
+        const value = parseInt(
           // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-          const route = parseRouteGenre($item.attr("value")!)
-          const name = $item.text()
-          return { route, name }
-        })
+          $item.find(".icon-checkbox").attr("data-id")!
+        ).toString()
+        const name = $item.text().trim()
 
-      if (type === "Sắp xếp") {
-        // eslint-disable-next-line functional/no-let
-        let key = ""
-        const items = select.map((item) => {
-          // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-          const [key$1, value] = Object.entries(item.route.query!).at(-1)!
+        return { name, value }
+      })
+  }
+  const filterCounty: FilterQuery = {
+    type: "Quốc gia",
+    key: "country",
+    items: $("#country option")
+      .toArray()
+      .map((item) => {
+        const $item = $(item)
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        const value = $item.attr("value")!
+        const name = $item.text().trim()
 
-          key = key$1
-          const name = item.name
+        return { name, value }
+      })
+  }
+  const filterStatus: FilterQuery = {
+    type: "Tình trạng",
+    key: "status",
+    items: $("#status option")
+      .toArray()
+      .map((item) => {
+        const $item = $(item)
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        const value = $item.attr("value")!
+        const name = $item.text().trim()
 
-          return { value, name }
-        })
+        return { name, value }
+      })
+  }
+  const filterMinchapter: FilterQuery = {
+    type: "Số chap",
+    key: "minchapter",
+    items: $("#minchapter option")
+      .toArray()
+      .map((item) => {
+        const $item = $(item)
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        const value = $item.attr("value")!
+        const name = $item.text().trim()
 
-        return <FilterQuery>{ type, key, items }
-      }
+        return { name, value }
+      })
+  }
+  const filterSort: FilterQuery = {
+    type: "Sắp xếp",
+    key: "sort",
+    items: $("#sort option")
+      .toArray()
+      .map((item) => {
+        const $item = $(item)
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        const value = $item.attr("value")!
+        const name = $item.text().trim()
 
-      if (select.length === 0) {
-        // eslint-disable-next-line functional/no-let
-        let key = ""
-        const items: FilterQuery["items"] = $item
-          .find(".choose a")
-          .toArray()
-          .map((item) => {
-            const $item = $(item)
+        return { name, value }
+      })
+  }
 
-            // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-            const [key$1, value] = [
-              ...new URL(
-                // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-                $item.attr("href")!,
-                "http://localhost"
-              ).searchParams.entries()
-            ].at(-1)!
-
-            key = key$1
-            const name = $item.text()
-
-            return { value, name }
-          })
-
-        return <FilterQuery>{ type, key, items }
-      }
-
-      return <FilterURI>{ type, select }
-    })
+  const filters: (FilterQuery | FilterURI)[] = [
+    filterGenre,
+    filterCounty,
+    filterStatus,
+    filterMinchapter,
+    filterSort
+  ]
 
   const items = $("#main_homepage .list_grid li")
     .toArray()

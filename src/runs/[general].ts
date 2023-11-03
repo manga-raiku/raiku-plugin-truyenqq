@@ -6,8 +6,10 @@ export default async function (
   page: number,
   filters: Record<string, string | string[]>
 ) {
-  const url = new URL(path, "http://localhost")
-  url.searchParams.delete("page")
+  const url = new URL(
+    path ? `the-loai/${path}` : `tim-kiem-nang-cao/trang-${page}.html`,
+    CURL
+  )
 
   // eslint-disable-next-line functional/no-loop-statements
   for (const key in filters) {
@@ -22,7 +24,7 @@ export default async function (
   }
 
   const { data } = await get({
-    url: `${CURL}/${url.pathname}/trang-${page}.html?${url.searchParams + ""}`
+    url: url.toString()
   })
 
   return Parse(data, Date.now())

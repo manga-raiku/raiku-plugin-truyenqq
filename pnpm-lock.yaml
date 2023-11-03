@@ -1,4 +1,4 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
 
 settings:
   autoInstallPeers: true
@@ -8,6 +8,9 @@ dependencies:
   raiku-pgs:
     specifier: 0.0.9-beta.42
     version: 0.0.9-beta.42(client-ext-animevsub-helper@1.0.24)
+  vn-str:
+    specifier: ^0.4.0
+    version: 0.4.0
 
 devDependencies:
   '@tachibana-shin/eslint-config':
@@ -3279,6 +3282,10 @@ packages:
       - supports-color
       - terser
     dev: true
+
+  /vn-str@0.4.0:
+    resolution: {integrity: sha512-BifqqvdaPE4+MIu+98wpAFppaqsywXpFHGnItjvzxCkCCNY2b/5eudsSTwUsekAjES/sfE7YLmKUHta3h2OP+Q==}
+    dev: false
 
   /vue-router@4.2.5(vue@3.3.4):
     resolution: {integrity: sha512-DIUpKcyg4+PTQKfFPX88UWhlagBEBEfJ5A8XDXRJLUnZOvcpMF8o/dnL90vpVkGaPbjvXazV/rC1qBKrZlFugw==}
