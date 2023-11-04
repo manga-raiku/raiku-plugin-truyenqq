@@ -3,6 +3,8 @@ import { expect } from "vitest"
 import general from "./[general]"
 import json2 from "./__test__/assets/the-loai/fantacy-30.json"
 import html2 from "./__test__/assets/the-loai/fantacy-30.txt?raw"
+import json4 from "./__test__/assets/tim-kiem-nang-cao.json"
+import html4 from "./__test__/assets/tim-kiem-nang-cao.txt?raw"
 import json3 from "./__test__/assets/top-ngay.json"
 import html3 from "./__test__/assets/top-ngay.txt?raw"
 import json from "./__test__/assets/truyen-dang-theo-doi.json"
@@ -29,5 +31,11 @@ describe("[general]", () => {
     const result = general(html3, 1696245040786)
 
     expect(result).toEqual(json3)
+  })
+
+  test("tim-kiem-nang-cao", () => {
+    const result = general(html4, 1696245040786)
+
+    expect(result).toEqual(json4)
   })
 })

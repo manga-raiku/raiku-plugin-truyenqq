@@ -1,0 +1,1639 @@
+{
+  "name": "Tìm kiếm nâng cao",
+  "description": "",
+  "filters": [
+    {
+      "type": "Thể loại",
+      "key": "category",
+      "items": [
+        { "name": "Tất cả", "value": "" },
+        { "name": "Action", "value": "26" },
+        { "name": "Adventure", "value": "27" },
+        { "name": "Anime", "value": "62" },
+        { "name": "Chuyển Sinh", "value": "91" },
+        { "name": "Cổ Đại", "value": "90" },
+        { "name": "Comedy", "value": "28" },
+        { "name": "Comic", "value": "60" },
+        { "name": "Demons", "value": "99" },
+        { "name": "Detective", "value": "100" },
+        { "name": "Doujinshi", "value": "96" },
+        { "name": "Drama", "value": "29" },
+        { "name": "Fantasy", "value": "30" },
+        { "name": "Gender Bender", "value": "45" },
+        { "name": "Harem", "value": "47" },
+        { "name": "Historical", "value": "51" },
+        { "name": "Horror", "value": "44" },
+        { "name": "Huyền Huyễn", "value": "468" },
+        { "name": "Isekai", "value": "85" },
+        { "name": "Josei", "value": "54" },
+        { "name": "Mafia", "value": "69" },
+        { "name": "Magic", "value": "58" },
+        { "name": "Manhua", "value": "35" },
+        { "name": "Manhwa", "value": "49" },
+        { "name": "Martial Arts", "value": "41" },
+        { "name": "Military", "value": "101" },
+        { "name": "Mystery", "value": "39" },
+        { "name": "Ngôn Tình", "value": "87" },
+        { "name": "One shot", "value": "95" },
+        { "name": "Psychological", "value": "40" },
+        { "name": "Romance", "value": "36" },
+        { "name": "School Life", "value": "37" },
+        { "name": "Sci-fi", "value": "43" },
+        { "name": "Seinen", "value": "42" },
+        { "name": "Shoujo", "value": "38" },
+        { "name": "Shoujo Ai", "value": "98" },
+        { "name": "Shounen", "value": "31" },
+        { "name": "Shounen Ai", "value": "86" },
+        { "name": "Slice of life", "value": "46" },
+        { "name": "Sports", "value": "57" },
+        { "name": "Supernatural", "value": "32" },
+        { "name": "Tragedy", "value": "52" },
+        { "name": "Trọng Sinh", "value": "82" },
+        { "name": "Truyện Màu", "value": "92" },
+        { "name": "Webtoon", "value": "55" },
+        { "name": "Xuyên Không", "value": "88" }
+      ]
+    },
+    {
+      "type": "Quốc gia",
+      "key": "country",
+      "items": [
+        { "name": "Tất cả", "value": "NaN" },
+        { "name": "Trung Quốc", "value": "NaN" },
+        { "name": "Việt Nam", "value": "NaN" },
+        { "name": "Hàn Quốc", "value": "NaN" },
+        { "name": "Nhật Bản", "value": "NaN" },
+        { "name": "Mỹ", "value": "NaN" }
+      ]
+    },
+    {
+      "type": "Tình trạng",
+      "key": "status",
+      "items": [
+        { "name": "Tất cả", "value": "NaN" },
+        { "name": "Đang tiến hành", "value": "NaN" },
+        { "name": "Hoàn thành", "value": "NaN" }
+      ]
+    },
+    {
+      "type": "Số chap",
+      "key": "minchapter",
+      "items": [
+        { "name": "> 0", "value": "NaN" },
+        { "name": ">= 50", "value": "NaN" },
+        { "name": ">= 100", "value": "NaN" },
+        { "name": ">= 200", "value": "NaN" },
+        { "name": ">= 300", "value": "NaN" },
+        { "name": ">= 400", "value": "NaN" },
+        { "name": ">= 500", "value": "NaN" }
+      ]
+    },
+    {
+      "type": "Sắp xếp",
+      "key": "sort",
+      "items": [
+        { "name": "Ngày đăng giảm dần", "value": "NaN" },
+        { "name": "Ngày đăng tăng dần", "value": "NaN" },
+        { "name": "Ngày cập nhật giảm dần", "value": "NaN" },
+        { "name": "Ngày cập nhật tăng dần", "value": "NaN" },
+        { "name": "Lượt xem giảm dần", "value": "NaN" },
+        { "name": "Lượt xem tăng dần", "value": "NaN" }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "chigau-miyahara-omae-ja-nai-15043"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/chigau-miyahara-omae-ja-nai_1699078426.png?gt=hdfgdfg&mobile=2",
+      "name": "Chigau Miyahara, Omae Ja Nai!",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "chigau-miyahara-omae-ja-nai-15043",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1696230640786,
+          "views": null
+        }
+      ],
+      "label": "New",
+      "status": "Đang Cập Nhật",
+      "views": 1396,
+      "likes": 51,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "Slice Of Life"],
+      "description": "Xoay quanh Arima, một chàng trai có tình cảm với một cô gái tên Yukihira. Nhưng mỗi khi anh ấy cố gắng thực hiện một động thái để đến gần Yukihira hơn, người bạn khác của anh ấy là Miyahara lại tình cờ có mặt trong cảnh đó và sẽ luôn lầm tưởng rằng Arima đang có động thái với cô ấy."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "sono-apato-zashikiwarashi-tsuki-bukken-ni-tsuki-15042"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/sono-apato-zashikiwarashi-tsuki-bukken-ni-tsuki_1699078244.png?gt=hdfgdfg&mobile=2",
+      "name": "Sono Apato, Zashikiwarashi-Tsuki Bukken Ni Tsuki",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "sono-apato-zashikiwarashi-tsuki-bukken-ni-tsuki-15042",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1696230640786,
+          "views": null
+        }
+      ],
+      "label": "New",
+      "status": "Đang Cập Nhật",
+      "views": 1054,
+      "likes": 29,
+      "comments": null,
+      "tags": ["Comedy", "Supernatural", "Romance", "Slice Of Life"],
+      "description": "Ryutaro Saeki (32) đã ly hôn và quay lại sống một mình. Anh nhanh chóng tìm được một căn nhà rẻ đến mức đáng ngờ, nhưng trong căn phòng đó anh đã được Zashiki Warashi chào đón. Cuộc sống kỳ lạ và hài hước của hai người sống chung sẽ bắt đầu!"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "con-gai-cua-mafia-15041"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/con-gai-cua-mafia_1699077952.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Con Gái Của Mafia",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "con-gai-cua-mafia-15041",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1696230640786,
+          "views": null
+        }
+      ],
+      "label": "New",
+      "status": "Đang Cập Nhật",
+      "views": 983,
+      "likes": 29,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "School Life"],
+      "description": "Câu chuyện kể về một chàng trai bình thường tên Mekh, cuộc đời sắp thay đổi vào thời điểm anh vô tình đụng phải cô gái khét tiếng và dễ bị hiểu lầm tên Saran."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "kiep-thu-hai-day-rac-roi-15040"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/kiep-thu-hai-day-rac-roi_1699077633.png?gt=hdfgdfg&mobile=2",
+      "name": "Kiếp Thứ Hai Đầy Rắc Rối",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "kiep-thu-hai-day-rac-roi-15040-chap-1-5"
+            }
+          },
+          "name": "1.5",
+          "id": "kiep-thu-hai-day-rac-roi-15040-chap-1-5",
+          "updated_at": 1696230640786,
+          "views": null
+        }
+      ],
+      "label": "New",
+      "status": "Đang Cập Nhật",
+      "views": 639,
+      "likes": 13,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "Isekai"],
+      "description": "Kozue, một người phụ nữ đã lãng phí cả cuộc đời mình cho những kẻ tồi tệ, được ban cho khả năng thần thánh để nhận ra những kẻ cặn bã trong nháy mắt khi cô tái sinh sang một thế giới khác với thân phận là Công chúa Christa. Cô mơ ước tìm được người đàn ông hoàn hảo để kết hôn ở kiếp thứ hai nhưng độ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "toi-hanh-phuc-khi-la-phan-dien-giau-co-15031"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toi-hanh-phuc-khi-la-phan-dien-giau-co_1698982584.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tôi Hạnh Phúc Khi Là Phản Diện Giàu Có",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toi-hanh-phuc-khi-la-phan-dien-giau-co-15031",
+              "chap": "19"
+            }
+          },
+          "name": "19",
+          "id": "19",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 5966,
+      "likes": 94,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "Manhwa", "Cổ Đại", "Truyện Màu"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "toa-sang-ruc-ro-15029" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toa-sang-ruc-ro_1698982301.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tỏa Sáng Rực Rỡ",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toa-sang-ruc-ro-15029-chap-19-2"
+            }
+          },
+          "name": "19.2",
+          "id": "toa-sang-ruc-ro-15029-chap-19-2",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 5698,
+      "likes": 76,
+      "comments": null,
+      "tags": ["Comedy", "Manhwa", "Ngôn Tình", "Cổ Đại", "Truyện Màu"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "silent-witch-chinmoku-no-majo-no-kakushigoto-15028"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/silent-witch-chinmoku-no-majo-no-kakushigoto_1698982240.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Silent Witch: Chinmoku No Majo No Kakushigoto",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "silent-witch-chinmoku-no-majo-no-kakushigoto-15028-chap-1-2"
+            }
+          },
+          "name": "1.2",
+          "id": "silent-witch-chinmoku-no-majo-no-kakushigoto-15028-chap-1-2",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 2147,
+      "likes": 58,
+      "comments": null,
+      "tags": ["Adventure", "Comedy", "Fantasy", "School Life"],
+      "description": "Phép màu vô niệm. đây là một câu chuyện của phù thủy yếu nhất, nhút nhát nhất nhưng lại mạnh nhất, và cách cô ấy tái sinh như thế nào, tất cả trong một cuốn sách. (phù thủy tĩnh lặng) Monica Everett. Phù thủy duy nhất trên thế giới có thể dùng phép vô niệm, và một anh hùng trẻ tuổi có thể tự tay tiê..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "sau-khi-chia-tay-toi-co-ket-dep-cung-voi-chu-nho-15027"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/sau-khi-chia-tay-toi-co-ket-dep-cung-voi-chu-nho_1698981558.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Sau Khi Chia Tay , Tôi Có Kết Đẹp Cùng Với Chú Nhỏ",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "sau-khi-chia-tay-toi-co-ket-dep-cung-voi-chu-nho-15027",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 2032,
+      "likes": 75,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Manhua",
+        "Romance",
+        "Ngôn Tình",
+        "Chuyển Sinh",
+        "Truyện Màu"
+      ],
+      "description": "Sau khi được tái sinh, tôi tuyệt vọng thoát khỏi tên cặn bã và, nhưng tôi đã cứu bạn khi tôi bị giết. Chúng ta hãy ở bên nhau, vừa để chiến đấu chống lại số phận của chúng ta và vì chúng ta yêu nhau."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "ta-co-hao-quang-ba-tong-15023"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ta-co-hao-quang-ba-tong_1698977924.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Ta Có Hào Quang Bá Tổng",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ta-co-hao-quang-ba-tong-15023",
+              "chap": "10"
+            }
+          },
+          "name": "10",
+          "id": "10",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 1737,
+      "likes": 43,
+      "comments": null,
+      "tags": ["Comedy", "Manhua", "Romance", "Ngôn Tình", "Truyện Màu"],
+      "description": "Bởi vì bóng ma thời thơ ấu, trong lòng người nổi tiếng thẩm Thanh Âm chôn sâu hạt giống không tin vào tình yêu, hiện giờ sau khi nàng trở về nước trở thành nữ bá tổng, tôn trọng cự tuyệt yêu đương chỉ làm sự nghiệp, làm tiền! Tuy nói khởi nghiệp thất bại nhất định phải ngoan ngoãn trở về kế thừa gia..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "toi-la-ky-si-anh-hung-cua-de-che-lien-thien-ha-15022"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toi-la-ky-si-anh-hung-cua-de-che-lien-thien-ha_1698977752.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tôi Là Kỵ Sĩ Anh Hùng Của Đế Chế Liên Thiên Hà!",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toi-la-ky-si-anh-hung-cua-de-che-lien-thien-ha-15022",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 4671,
+      "likes": 105,
+      "comments": null,
+      "tags": ["Comedy", "Fantasy", "Shounen", "Isekai"],
+      "description": "Đây là spin-off của bộ “Lần chuyển sinh này ta quyết định sẽ trở thành một lãnh chúa cực kỳ tàn bạo!!”. Ở một hành tinh ở đế chế liên thiên hà – trong lãnh thổ được cai trị bởi gia tộc Banfield. Một cô gái trẻ tên Emma bước những bước chân đầu tiên với tư cách là một kỵ sĩ, giống như một người lãnh ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "otoko-girai-na-bijin-shimai-wo-namae-mo-tsugezu-ni-tasuketara-ittai-dounaru-15016"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/otoko-girai-na-bijin-shimai-wo-namae-mo-tsugezu-ni-tasuketara-ittai-dounaru_1698855947.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Otoko Girai Na Bijin Shimai Wo Namae Mo Tsugezu Ni Tasuketara Ittai Dounaru?",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "otoko-girai-na-bijin-shimai-wo-namae-mo-tsugezu-ni-tasuketara-ittai-dounaru-15016",
+              "chap": "4"
+            }
+          },
+          "name": "4",
+          "id": "4",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 18358,
+      "likes": 327,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "School Life", "Harem", "Ecchi"],
+      "description": "Tên khác: Otoko Girai na Bijin Shimai wo Namae mo Tsugezu ni Tasuketara Ittai Dounaru? ; The Case About Two Sisters Becoming Extremely Obsessed With Me After I Saved Them\nArisa và Aina là những cô bạn cùng lớp vô cùng xinh đẹp và nổi tiếng là rất ghét đàn ông. Hayato nhà ta tình cờ có quan hệ với cả..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "tai-sinh-thanh-ten-can-ba-trong-bo-manga-cam-sung-minh-tung-doc-the-nhung-gio-day-co-nang-nu-chinh-cua-bo-manga-ay-lai-chu-dong-tiep-can-toi-15015"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/tai-sinh-thanh-ten-can-ba-trong-bo-manga-cam-sung-minh-tung-doc-the-nhung-gio-day-co-nang-nu-chinh-cua-bo-manga-ay-lai-chu-dong-tiep-can-toi_1698855832.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tái Sinh Thành Tên Cặn Bã Trong Bộ Manga Cắm Sừng Mình Từng Đọc. Thế Nhưng Giờ Đây, Cô Nàng Nữ Chính Của Bộ Manga Ấy Lại Chủ Động Tiếp Cận Tôi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "tai-sinh-thanh-ten-can-ba-trong-bo-manga-cam-sung-minh-tung-doc-the-nhung-gio-day-co-nang-nu-chinh-cua-bo-manga-ay-lai-chu-dong-tiep-can-toi-15015",
+              "chap": "8"
+            }
+          },
+          "name": "8",
+          "id": "8",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 33107,
+      "likes": 434,
+      "comments": null,
+      "tags": ["Comedy", "Romance"],
+      "description": "Cái tựa dài ngoằng kia cũng chính là tóm tắt luôn rồi nhé"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "shoutai-fumei-to-kyoufu-15014"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/shoutai-fumei-to-kyoufu_1698825539.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Shoutai Fumei To Kyoufu",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "shoutai-fumei-to-kyoufu-15014-chap-2-3"
+            }
+          },
+          "name": "2.3",
+          "id": "shoutai-fumei-to-kyoufu-15014-chap-2-3",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 5460,
+      "likes": 129,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Romance", "School Life", "Ecchi"],
+      "description": "Sau khi gặp phải một tai nạn nghiêm trọng nhiều năm về trước, Kaname Isurugi đã gặp rất nhiều khó khăn trong việc giao tiếp với bạn bè ở ngôi trường mới. Tuy nhiên, do được một giáo viên yêu cầu, cậu buộc phải làm quen và giúp đỡ giải quyết rắc rối của 4 nữ sinh trong trường.\nMột ngày nọ, cậu bị một..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "nha-tro-a-nhan-15013" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/nha-tro-a-nhan_1698825001.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Nhà Trọ Á Nhân",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "nha-tro-a-nhan-15013",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 3710,
+      "likes": 135,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Supernatural",
+        "Romance",
+        "Slice Of Life",
+        "Ecchi"
+      ],
+      "description": "Kém giao tiếp chuyển đến nhà trọ để kết bạn"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "crows-zero-reboot-15002"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/crows-zero-reboot_1698577203.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Crows Zero Reboot",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "crows-zero-reboot-15002",
+              "chap": "7"
+            }
+          },
+          "name": "7",
+          "id": "7",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 2682,
+      "likes": 22,
+      "comments": null,
+      "tags": ["Action", "Comedy", "School Life", "Martial Arts"],
+      "description": "Crows Zero Reboot là phiên bản manga của bộ phim Crows Zero (Bá Vương Học Đường) và là bản làm lại của bộ manga Crows Zero"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "toi-yeu-chi-gai-nha-ben-15001"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/toi-yeu-chi-gai-nha-ben_1698480520.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tôi Yêu Chị Gái Nhà Bên",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "toi-yeu-chi-gai-nha-ben-15001",
+              "chap": "22"
+            }
+          },
+          "name": "22",
+          "id": "22",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 20076,
+      "likes": 219,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "School Life"],
+      "description": "Yêu Chị Gái Nhà Bên Lớn Hơn Mình Ba Tuổi, Đồng Tác Giả Với Bộ Gái Quên Kính Nên Nội Dung Thì Không Cần Phải Nghi Ngờ"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "chua-tung-ra-tay-nhung-ta-van-thanh-dai-lao-tren-thien-bang-14996"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/chua-tung-ra-tay-nhung-ta-van-thanh-dai-lao-tren-thien-bang_1698480241.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Chưa Từng Ra Tay Nhưng Ta Vẫn Thành Đại Lão Trên Thiên Bảng",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "chua-tung-ra-tay-nhung-ta-van-thanh-dai-lao-tren-thien-bang-14996",
+              "chap": "8"
+            }
+          },
+          "name": "8",
+          "id": "8",
+          "updated_at": 1696162240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 23721,
+      "likes": 571,
+      "comments": null,
+      "tags": ["Action", "Comedy", "Manhua", "Chuyển Sinh", "Truyện Màu"],
+      "description": "Chú ý xem, thanh niên này tên là A Vĩ! Tự cho là xuyên không lên trên người \"đệ nhất giang hồ\" đại ma vương, trên thực tế lại là một con gà có sức chiến đấu là \"0\"! A Vĩ tự nhận là chó săn lại dựa vào sự tự tin hơn người của mình mà một đường chặt dưa thái rau! Che giấu thân phận, phát triển thế lực..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "tsumiki-ogami-the-strange-everyday-life-14995"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/tsumiki-ogami-the-strange-everyday-life_1698480178.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Tsumiki Ogami & The Strange Everyday Life.",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "tsumiki-ogami-the-strange-everyday-life-14995",
+              "chap": "4"
+            }
+          },
+          "name": "4",
+          "id": "4",
+          "updated_at": 1696072240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 8309,
+      "likes": 242,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "School Life", "Slice Of Life"],
+      "description": "Thời hiện đại trong câu chuyện này là thời đại của \"đa dạng\" giống loài, những chủng tộc bán nhân có một tên gọi mới là\"Genjin\" và sống cùng nền văn minh con người. Yukata Shinsou, 1 học sinh năm nhất cao trung bình thường quyết dịnh nhập học vào một ngôi trường tư thục có tỉ lệ Genjin cao nhất nước..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "cuoc-song-doc-than-gian-di-cua-quy-co-bi-bo-roi-14994"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/cuoc-song-doc-than-gian-di-cua-quy-co-bi-bo-roi_1698480109.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Cuộc Sống Độc Thân Giản Dị Của Quý Cô Bị Bỏ Rơi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "cuoc-song-doc-than-gian-di-cua-quy-co-bi-bo-roi-14994",
+              "chap": "30"
+            }
+          },
+          "name": "30",
+          "id": "30",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 7101,
+      "likes": 84,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Manhwa", "Historical"],
+      "description": "“Gia đình này không cần một người như mày! Dù mày có không cảm thấy xấu hổ với cái tin đồn vụ bê bối kia nhưng lại hành động quá hấp tấp!”Tôi cũng không mong muốn những đồ xa xỉ như dây chuyền. Rèm cửa phòng ngủ bị rách hết cũng không tồi. Gót chân bị mòn hết rồi nên đôi giày có chiều cao khác nhau ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "party-anh-hung-muon-trai-nghiem-bi-tinh-yeu-quat-14993"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/party-anh-hung-muon-trai-nghiem-bi-tinh-yeu-quat_1698480028.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Party Anh Hùng Muốn Trải Nghiệm Bị Tình Yêu Quật",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "party-anh-hung-muon-trai-nghiem-bi-tinh-yeu-quat-14993",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 4915,
+      "likes": 181,
+      "comments": null,
+      "tags": ["Adventure", "Comedy", "Romance", "Slice Of Life"],
+      "description": "Một pháp sư muốn bị đá khỏi party anh hùng nhưng không được, đây là câu chuyện về cuộc phiêu lưu của party anh hùng mạnh nhất chứa đầy những tình yêu kỳ quái..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "yuusha-party-o-oida-sareta-kiyou-binbou-14989"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/yuusha-party-o-oida-sareta-kiyou-binbou_1698479774.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Yuusha Party O Oida Sareta Kiyou Binbou",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "yuusha-party-o-oida-sareta-kiyou-binbou-14989-chap-2-1"
+            }
+          },
+          "name": "2.1",
+          "id": "yuusha-party-o-oida-sareta-kiyou-binbou-14989-chap-2-1",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 12180,
+      "likes": 265,
+      "comments": null,
+      "tags": ["Action", "Comedy", "Fantasy", "Romance", "Ecchi"],
+      "description": "“Thiếu kĩ năng” có phải là cái tội?Mặc dù tôi đã rất cố gắng nhưng vẫn được thông báo là bị đuôi!!Orn, thuộc nhóm anh hùng, đột nhiên một ngày nọ được trưởng nhóm thông báo là. “Vì cậu không đủ khả năng nên hãy rời khỏi đội”Ngoài ra, Orn còn bị các đồng đội khác cho là “thiếu kĩ năng”. Quả thực, mọi..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "chuc-em-hanh-phuc-lemon-14988"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/chuc-em-hanh-phuc-lemon_1698479699.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Chúc Em Hạnh Phúc, Lemon!",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "chuc-em-hanh-phuc-lemon-14988",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1695726640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 7370,
+      "likes": 152,
+      "comments": null,
+      "tags": ["Comedy", "Romance"],
+      "description": "\"T-tớ đã cắm sừng cậu, không chỉ một anh đâu...là ba anh lận cơ!\"Những câu nói như gai sắt cứa vào tim cậu từ cuối cấp hai năm ấy vẫn còn làm cậu ám ảnh. Akiyoshi Sunao, hiện tại cậu đã trở thành sinh viên năm nhất và làm thành viên của câu lạc bộ phim ảnh, cậu còn nỗi ám ảnh kia là từ mối tình đầu ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "the-witch-controls-her-age-and-magic-with-a-kiss-14987"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/the-witch-controls-her-age-and-magic-with-a-kiss_1698479580.jpg?gt=hdfgdfg&mobile=2",
+      "name": "The Witch Controls Her Age And Magic With A Kiss",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "the-witch-controls-her-age-and-magic-with-a-kiss-14987",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 8242,
+      "likes": 172,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Supernatural",
+        "Romance",
+        "School Life",
+        "Slice Of Life"
+      ],
+      "description": "Tohru có một siêu năng lực - cậu ấy có thể trở nên vô hình mà không cần bất kỳ phép thuật nào cả! Chỉ có một người duy nhất thực sự nhìn thấy cậu, đó là người bạn thời thơ ấu, Tsumugi. Nhờ có \"vô hình\" mà cậu đã phát hiện ra một nàng phù thuỷ và tước đi sức mạnh của cô ta. Những tưởng cậu sẽ hẹo nga..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "cau-trai-nha-ben-14986" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/cau-trai-nha-ben_1698479518.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Cậu Trai Nhà Bên",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "cau-trai-nha-ben-14986",
+              "chap": "5"
+            }
+          },
+          "name": "5",
+          "id": "5",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 3835,
+      "likes": 58,
+      "comments": null,
+      "tags": ["Comedy", "Fantasy", "Manhwa", "Ngôn Tình", "Truyện Màu"],
+      "description": "Cậu bé sống cạnh nhà bạn nay đã lớn"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "tram-kiep-luan-hoi-kiep-nay-ta-chi-muon-luoi-bieng-14976"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/tram-kiep-luan-hoi-kiep-nay-ta-chi-muon-luoi-bieng_1698290469.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Trăm Kiếp Luân Hồi, Kiếp Này Ta Chỉ Muốn Lười Biếng",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "tram-kiep-luan-hoi-kiep-nay-ta-chi-muon-luoi-bieng-14976",
+              "chap": "128"
+            }
+          },
+          "name": "128",
+          "id": "128",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 70498,
+      "likes": 400,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Manhua",
+        "Ngôn Tình",
+        "Xuyên Không",
+        "Cổ Đại",
+        "Truyện Màu"
+      ],
+      "description": "Mạnh Quy Đề vốn tưởng rằng mình sẽ là đệ nhất thiên hạ. Kết quả là thiên hạ đệ nhất pháo hôi. Sau khi tự bạo, nàng bị nhốt trong hỗn độn nhìn mấy trăm lần cả đời nữ chủ. Mới biết hóa ra mình là nhân vật phản diện trong một quyển tiểu thuyết. Tỉnh lại, nhân vật phản diện cô ấy bị rách nát. Đánh lại đ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "nononono-14971" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/nononono_1697949025.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Nononono",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "nononono-14971",
+              "chap": "5"
+            }
+          },
+          "name": "5",
+          "id": "5",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 2097,
+      "likes": 13,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Psychological", "Gender Bender"],
+      "description": "Đề tài trượt tuyết"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "dung-hong-them-muon-nhan-sac-cua-de-de-xinh-dep-14967"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/dung-hong-them-muon-nhan-sac-cua-de-de-xinh-dep_1697610210.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Đừng Hòng Thèm Muốn Nhan Sắc Của Đệ Đệ Xinh Đẹp",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "dung-hong-them-muon-nhan-sac-cua-de-de-xinh-dep-14967",
+              "chap": "7"
+            }
+          },
+          "name": "7",
+          "id": "7",
+          "updated_at": 1695985840786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 4380,
+      "likes": 91,
+      "comments": null,
+      "tags": ["Comedy", "Manhua", "Ngôn Tình", "Truyện Màu"],
+      "description": "Hệ thống vừa mới đến đều tốt, nhưng chỉ có ba thiếu sót là: không thể trói buộc, Mạc Vấn hay là sư huynh thiên tài đáng ghét nhất của Tô Nhạc! Ban đầu. Suyo: Hãy nhìn vào đôi mắt của tôi và hành động, dẫn dắt bạn đi cứu thế giới! Sư huynh nhìn thiếu gia kiêu ngạo rồi gật đầu: Thỏa thuận. Sau đó........"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "dai-lao-tu-tien-bat-dau-bang-tam-tri-14966"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/dai-lao-tu-tien-bat-dau-bang-tam-tri_1697610131.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Đại Lão Tu Tiên Bắt Đầu Bằng Tâm Trí",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "dai-lao-tu-tien-bat-dau-bang-tam-tri-14966",
+              "chap": "17"
+            }
+          },
+          "name": "17",
+          "id": "17",
+          "updated_at": 1696176640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 31114,
+      "likes": 522,
+      "comments": null,
+      "tags": ["Action", "Adventure", "Comedy", "Manhua", "Truyện Màu"],
+      "description": "Trần Phong mang theo hệ thống thần cấp xuyên đến thế giới tu tiên, nhưng hắn không biết sự lớn mạnh của bản thân, vẫn luôn nghĩ bản thân là tên cùi bắp. Rốt cuộc để giữ hắn ở lại, người trong tông môn đều giả vờ bày ra vẻ hắn rất cùi bắp. Thế là một người có ngộ tính cực cao nhưng vẫn cho rằng mình ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "co-le-toi-da-sai-lam-khi-ket-hon-14965"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/co-le-toi-da-sai-lam-khi-ket-hon_1697610010.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Có Lẽ Tôi Đã Sai Lầm Khi Kết Hôn",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "co-le-toi-da-sai-lam-khi-ket-hon-14965-chap-11-2"
+            }
+          },
+          "name": "11.2",
+          "id": "co-le-toi-da-sai-lam-khi-ket-hon-14965-chap-11-2",
+          "updated_at": 1695813040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 11349,
+      "likes": 150,
+      "comments": null,
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Manhwa",
+        "Ngôn Tình",
+        "Cổ Đại",
+        "Truyện Màu"
+      ],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "con-re-la-tien-vuong-tai-sinh-co-chut-lum-xum-14947"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/con-re-la-tien-vuong-tai-sinh-co-chut-lum-xum_1697441076.png?gt=hdfgdfg&mobile=2",
+      "name": "Con Rể Là Tiên Vương Tái Sinh Có Chút Lùm Xùm",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "con-re-la-tien-vuong-tai-sinh-co-chut-lum-xum-14947",
+              "chap": "6"
+            }
+          },
+          "name": "6",
+          "id": "6",
+          "updated_at": 1694603440786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 12965,
+      "likes": 285,
+      "comments": null,
+      "tags": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Supernatural",
+        "Manhua",
+        "Martial Arts",
+        "Harem",
+        "Trọng Sinh",
+        "Truyện Màu"
+      ],
+      "description": "Tiêu Dao Tiên Vương Diệp Thần bị kẻ phản bội từ thế giới tiên cổ tấn công và được tái sinh ngược thời gian. Kiếp trước anh bị thế hệ giàu có thứ hai bức hại, vợ bị cướp, cuối cùng anh bị bắt cóc vức ở miền bắc Miến Điện và chết thảm hại trong lồng nước. Kiếp này, Diệp Thần thề sẽ bảo vệ vợ mình, trả..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "sakedokoro-haraiso-nichijou-14944"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/sakedokoro-haraiso-nichijou_1697423165.png?gt=hdfgdfg&mobile=2",
+      "name": "Sakedokoro Haraiso Nichijou",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "sakedokoro-haraiso-nichijou-14944",
+              "chap": "2"
+            }
+          },
+          "name": "2",
+          "id": "2",
+          "updated_at": 1695467440786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 2435,
+      "likes": 43,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Sci-Fi", "Slice Of Life"],
+      "description": "Mười lăm năm đã trôi qua kể từ khi kết thúc Đại chiến. Phát triển mạnh mẽ ở cuối Thành phố Hoa Hoàng gia là quán bar Haraiso, được điều hành bởi một người chủ có phong cách riêng, cô Haru. Nhiều khách hàng ghé thăm nhà hàng mỗi tối, bị thu hút bởi rượu sake thơm ngon và đồ ăn nhẹ…"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "doc-thoai-cua-nguoi-duoc-si-14939"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/doc-thoai-cua-nguoi-duoc-si_1697264725.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Độc Thoại Của Người Dược Sĩ",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "doc-thoai-cua-nguoi-duoc-si-14939",
+              "chap": "51"
+            }
+          },
+          "name": "51",
+          "id": "51",
+          "updated_at": 1694430640786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 69632,
+      "likes": 462,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Romance", "Seinen", "Historical"],
+      "description": "Ở trong triều đình, một cô gái trẻ bị trở thành nô tì, Maomao. Câu chuyện mở đầu khi Maomao (bác sĩ từ phố đèn đỏ) nghe về chuyện con của hoàng đế bị chết non. Bản tính hiếu kì và khát vọng tri thức đã làm cô phải ra tay. Vậy thì cô đã tìm ra được gì? Chuyện gì đang xảy ra trong triều đình?"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "piccolina-anh-xien-nuong-va-em-bunny-girl-14931"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/piccolina-anh-xien-nuong-va-em-bunny-girl_1697186357.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Piccolina (Anh Xiên Nướng Và Em Bunny Girl)",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "piccolina-anh-xien-nuong-va-em-bunny-girl-14931",
+              "chap": "9"
+            }
+          },
+          "name": "9",
+          "id": "9",
+          "updated_at": 1696158640786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 36640,
+      "likes": 389,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "Slice Of Life", "Ecchi"],
+      "description": "Anh chủ tiệm xiên nướng đã phải lòng một cô bunny girl khách hàng của ảnh! Làm sao để có thể tiếp cận cô ấy cho dù anh lúc nào cũng túi bụi với cửa tiệm đây?"
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "sunao-ni-narenai-aizen-san-14923"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/sunao-ni-narenai-aizen-san_1697185533.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Sunao Ni Narenai Aizen-San",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "sunao-ni-narenai-aizen-san-14923",
+              "chap": "10"
+            }
+          },
+          "name": "10",
+          "id": "10",
+          "updated_at": 1695381040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 20552,
+      "likes": 185,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "School Life", "Slice Of Life"],
+      "description": ""
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "ai-duc-cuu-tieu-14919" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/ai-duc-cuu-tieu_1697185245.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Ái Dục Cửu Tiêu",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "ai-duc-cuu-tieu-14919",
+              "chap": "9"
+            }
+          },
+          "name": "9",
+          "id": "9",
+          "updated_at": 1695640240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 6019,
+      "likes": 90,
+      "comments": null,
+      "tags": ["Comedy", "Manhua", "Ngôn Tình", "Truyện Màu"],
+      "description": "Nữ diễn viên cấp mười tám đã từng mang theo sức mạnh thần thánh và đi qua vùng đất ngập lụt cổ xưa. Ngoài ra còn có một vị thánh đích thân phong ấn cô, tuyên bố cô là \"Chúa tể của Eros\" và có một địa vị đáng kính. Cửu Âm cảm thấy làm người bò thật sự rất tốt, nếu không cần quyến rũ trái tim thánh nh..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "chua-cuu-the-pha-game-roi-14918"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/chua-cuu-the-pha-game-roi_1697185122.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Chúa Cứu Thế Phá Game Rồi",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "chua-cuu-the-pha-game-roi-14918",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1694344240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 3240,
+      "likes": 162,
+      "comments": null,
+      "tags": ["Action", "Comedy", "Fantasy", "Manhua", "Truyện Màu"],
+      "description": "Diệp Túc - kẻ đã vượt qua tất cả các dị thế giới với các loại hình khác nhau sau cùng đã tới trái đất, hắn quyết định từ bỏ thân phận chúa cứu thế của mình và bắt đầu phá game. Kết quả trái đất tưởng chừng như bình yên lại là thế giới được thiết kế sẵn sẽ trở thành kẻ địch của các thế giới khác. Hết..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "bong-bong-anh-dao-14916"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/bong-bong-anh-dao_1697185004.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Bong Bóng Anh Đào",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "bong-bong-anh-dao-14916",
+              "chap": "5"
+            }
+          },
+          "name": "5",
+          "id": "5",
+          "updated_at": 1694344240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 2474,
+      "likes": 86,
+      "comments": null,
+      "tags": ["Comedy", "Manhua", "School Life", "Ngôn Tình", "Truyện Màu"],
+      "description": "Đào Chi, thí nghiệm một nhân vật mây đột quỵ, quanh năm ở phòng thi cuối cùng hùng bá thiên hạ. Một ngày nọ, trên phố có tin đồn, Đào đại tiểu thư không biết coi trọng vị học thần đại lão nhất trung trong truyền thuyết kia đánh bại hy vọng phụ trung, thi đại học trạng nguyên dự bị Giang Khởi Hoài. Q..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "bi-mat-cua-co-vo-gyaru-14911"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/bi-mat-cua-co-vo-gyaru_1697184626.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Bí Mật Của Cô Vợ Gyaru",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "bi-mat-cua-co-vo-gyaru-14911",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1694430640786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 22726,
+      "likes": 487,
+      "comments": null,
+      "tags": ["Comedy", "Romance", "Slice Of Life"],
+      "description": "Fuyuki là một Gyaru vừa xinh đẹp vừa lạnh lùng. Có điều, có một khía cạnh bí mật mà cô chỉ thể hiện trước mặt \"Chồng\" mình."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "bi-mat-ngoai-vu-tru-14898"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/bi-mat-ngoai-vu-tru_1696737609.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Bí Mật Ngoài Vũ Trụ",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "bi-mat-ngoai-vu-tru-14898",
+              "chap": "3"
+            }
+          },
+          "name": "3",
+          "id": "3",
+          "updated_at": 1693912240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 5361,
+      "likes": 118,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Romance", "School Life", "Sci-Fi"],
+      "description": "Cô gái tôi yêu hoá ra lại là... người ngoài hành tinh!? Tôi, một lớp trưởng gương mẫu đã rơi vào lưới tình với cô bạn Haru lập dị học cùng lớp. Tôi đã tỏ tình, và biết được rằng cậu ấy chính là một người ngoài hành tinh tới để khám phá trái đất. \"Nhưng tớ vẫn thích cậu!\" Tôi đã bắt đầu hẹn hò với Ha..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "hoang-tu-chuyen-sinh-tro-thanh-nguoi-manh-nhat-the-gioi-nho-vao-su-hieu-biet-ve-bug-14895"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/hoang-tu-chuyen-sinh-tro-thanh-nguoi-manh-nhat-the-gioi-nho-vao-su-hieu-biet-ve-bug_1696737323.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Hoàng Tử Chuyển Sinh Trở Thành Người Mạnh Nhất Thế Giới Nhờ Vào Sự Hiểu Biết Về Bug",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "hoang-tu-chuyen-sinh-tro-thanh-nguoi-manh-nhat-the-gioi-nho-vao-su-hieu-biet-ve-bug-14895-chap-9-5"
+            }
+          },
+          "name": "9.5",
+          "id": "hoang-tu-chuyen-sinh-tro-thanh-nguoi-manh-nhat-the-gioi-nho-vao-su-hieu-biet-ve-bug-14895-chap-9-5",
+          "updated_at": 1696173040786,
+          "views": null
+        }
+      ],
+      "label": "Hot",
+      "status": "Đang Cập Nhật",
+      "views": 41779,
+      "likes": 485,
+      "comments": null,
+      "tags": ["Adventure", "Comedy", "Fantasy", "Romance"],
+      "description": "Destiny Slayer, một tựa game khá nổi ở Nhật Bản đã được chàng game thủ Tamotsu phá đảo. Một hôm lúc đang ngủ, do thói ngủ xấu của anh chàng, cậu đã ngã dập đầu và chuyển sinh vào vai phản diện yếu nhất trong game. Với deathflag siêu to khổng lồ, hành trình của chàng trai trong thế giới mới bắt đầu."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": {
+          "sourceId": "truyenqqq",
+          "comic": "cach-che-ngu-ban-trai-bao-den-14893"
+        }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/cach-che-ngu-ban-trai-bao-den_1696737107.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Cách Chế Ngự Bạn Trai Báo Đen",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "cach-che-ngu-ban-trai-bao-den-14893",
+              "chap": "10"
+            }
+          },
+          "name": "10",
+          "id": "10",
+          "updated_at": 1693912240786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 4113,
+      "likes": 94,
+      "comments": null,
+      "tags": ["Comedy", "Manhua", "Ngôn Tình", "Cổ Đại", "Truyện Màu"],
+      "description": "Khi tỉnh dậy, tôi bước vào cuốn tiểu thuyết đang đọc và trở thành con gái của gia đình Belén với sức mạnh thơm ngát của chủng tộc hoa. Để thoát khỏi số phận bi thảm của người bạn đời nữ độc ác và tìm kiếm một chiếc phao cứu sinh, tôi đã đóng vai trò là trợ lý quyền lực nhất của anh ta dưới thời ngườ..."
+    },
+    {
+      "route": {
+        "name": "comic",
+        "params": { "sourceId": "truyenqqq", "comic": "kakunaru-ue-wa-14884" }
+      },
+      "image": "https://i.truyenvua.com/ebook/190x247/kakunaru-ue-wa_1696736297.jpg?gt=hdfgdfg&mobile=2",
+      "name": "Kakunaru Ue Wa",
+      "othername": null,
+      "author": null,
+      "last_chapters": [
+        {
+          "route": {
+            "name": "comic chap",
+            "params": {
+              "sourceId": "truyenqqq",
+              "comic": "kakunaru-ue-wa-14884",
+              "chap": "4"
+            }
+          },
+          "name": "4",
+          "id": "4",
+          "updated_at": 1694949040786,
+          "views": null
+        }
+      ],
+      "label": "",
+      "status": "Đang Cập Nhật",
+      "views": 5461,
+      "likes": 112,
+      "comments": null,
+      "tags": ["Comedy", "Drama", "Romance", "School Life", "Slice Of Life"],
+      "description": "Uehara-kun là một thằng rất thích gái 2D và ước mơ làm hoạ sĩ Manga! Tuy nhiên, giấc mơ của anh ta lại ngay lập tức bị đạp đổ khi bị một biên tập viên nhận xét rằng tác phẩm này chán bỏ bà ra.Tưởng như anh đã định từ bỏ giấc mơ của mình thì một cô gái trong lớp của anh, Miyamoto Niina, nhìn thấy bản..."
+    }
+  ],
+  "curPage": 1,
+  "maxPage": 107
+}

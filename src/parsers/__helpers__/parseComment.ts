@@ -10,7 +10,6 @@ export function parseComment($comment: Cheerio<Element>, now: number): Comment {
       .attr("onclick")!
       .match(/addReply\((\d+)\)/)![1]! + ""
   const author: Comment["author"] = {
-
     avatar: upgradeToHttps(
       $comment.find(".avartar-comment img").attr("data-src")!
     ),

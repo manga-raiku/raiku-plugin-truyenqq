@@ -1,3 +1,8 @@
 import { parseDom } from "raiku-pgs/thread"
 
-Object.assign(self, { parseDom })
+Object.assign(self, {
+  parseDom,
+  AppInfo: {
+    extension: false
+  }
+})

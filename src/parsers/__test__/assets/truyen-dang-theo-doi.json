@@ -1,7 +1,17 @@
 {
   "name": "Truyện Đang Theo Dõi",
   "description": "",
-  "filters": [],
+  "filters": [
+    {
+      "type": "Thể loại",
+      "key": "category",
+      "items": [{ "name": "Tất cả", "value": "" }]
+    },
+    { "type": "Quốc gia", "key": "country", "items": [] },
+    { "type": "Tình trạng", "key": "status", "items": [] },
+    { "type": "Số chap", "key": "minchapter", "items": [] },
+    { "type": "Sắp xếp", "key": "sort", "items": [] }
+  ],
   "items": [
     {
       "route": {
