@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   raiku-pgs:
-    specifier: 0.0.9-beta.43
-    version: 0.0.9-beta.43(client-ext-animevsub-helper@1.0.24)
+    specifier: 0.0.9-beta.44
+    version: 0.0.9-beta.44(client-ext-animevsub-helper@1.0.24)
   vn-str:
     specifier: ^0.4.0
     version: 0.4.0
@@ -2724,10 +2724,10 @@ packages:
     resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
     dev: true
 
-  /raiku-pgs@0.0.9-beta.43(client-ext-animevsub-helper@1.0.24):
-    resolution: {integrity: sha512-CgNYtIUmkcj/p8FihCC5AR3ttSCGvozXNulg0dd35kbkvsFUyZsGralzLSM8PuYyUoCOAU7Kx7+e8DX2OJxRNw==}
+  /raiku-pgs@0.0.9-beta.44(client-ext-animevsub-helper@1.0.24):
+    resolution: {integrity: sha512-nuTbbOGe9qr2Z4fWl3ZfAv0gqPkA5Gr3UJIBWLHJUffqIVqyp1U1kEr9h0ziIYw6BZoNJ9P1azPSNcFkj6iJHA==}
     peerDependencies:
-      client-ext-animevsub-helper: ^1.0.23
+      client-ext-animevsub-helper: ^1.0.24
     dependencies:
       '@fcanvas/communicate': 1.1.5
       chalk: 4.1.2
