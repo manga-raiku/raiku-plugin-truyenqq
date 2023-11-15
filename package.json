@@ -16,7 +16,8 @@
     "build": "tsx ./scripts/build.ts",
     "typing": "tsc --noEmit",
     "ci": "pnpm format && pnpm lint && pnpm typing",
-    "release": "bumpp"
+    "release": "bumpp",
+    "ping-update": "tsx ./scripts/ping-update"
   },
   "keywords": [],
   "license": "LGPL-3.0-or-later",
@@ -34,7 +35,9 @@
     "esbuild": "^0.19.5",
     "esbuild-runner": "^2.2.2",
     "eslint": "^8.53.0",
+    "form-data": "^4.0.0",
     "happy-dom": "^12.10.3",
+    "node-fetch": "^3.3.2",
     "prettier": "^3.1.0",
     "tsx": "^4.1.2",
     "typescript": "^5.2.2",

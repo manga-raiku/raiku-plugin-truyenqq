@@ -36,7 +36,7 @@ jobs:
         run: pnpm build
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           folder: dist
 
@@ -58,3 +58,9 @@ jobs:
           body: ${{ steps.changelog.outputs.changelog }}
           draft: false
           prerelease: false
+      
+      - name: Sleep 5s
+        run: sleep 5s
+
+      - name: Ping to Market Plugins
+        run: pnpm ping-update "${{ secrets.GITHUB_TOKEN }}"
