@@ -42,7 +42,7 @@ jobs:
         name: Install pnpm
         id: pnpm-install
         with:
-          verrsion: 8.9.2
+          version: 8.9.2
           run_install: false
 
       - name: Install depends
