@@ -1,5 +1,4 @@
 import { pathIsHome } from "raiku-pgs/plugin"
-import type { LocationQuery } from "vue-router"
 
 import { CURL } from "../../const"
 import Parse from "../../parsers/[general]"
@@ -7,7 +6,7 @@ import Parse from "../../parsers/[general]"
 export default async function (
   slug: string,
   page: number,
-  query: LocationQuery
+  query: Record<string, string>
 ) {
   const { data, url } = await get({
     url: `${CURL}/${slug.replace(
