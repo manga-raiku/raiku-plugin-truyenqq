@@ -33,7 +33,7 @@ jobs:
         with:
           node-version: 18
 
-      - uses: pnpm/action-setup@v2.0.1
+      - uses: pnpm/action-setup@v2.4.0
         name: Install pnpm
         id: pnpm-install
         with:
@@ -70,7 +70,7 @@ jobs:
         with:
           node-version: 18
 
-      - uses: pnpm/action-setup@v2.0.1
+      - uses: pnpm/action-setup@v2.4.0
         name: Install pnpm
         id: pnpm-install
         with:
@@ -107,7 +107,7 @@ jobs:
         with:
           node-version: 18
 
-      - uses: pnpm/action-setup@v2.0.1
+      - uses: pnpm/action-setup@v2.4.0
         name: Install pnpm
         id: pnpm-install
         with:
@@ -149,7 +149,7 @@ jobs:
         with:
           node-version: 18
 
-      - uses: pnpm/action-setup@v2.0.1
+      - uses: pnpm/action-setup@v2.4.0
         name: Install pnpm
         id: pnpm-install
         with:
@@ -189,7 +189,7 @@ jobs:
         with:
           node-version: 18
 
-      - uses: pnpm/action-setup@v2.0.1
+      - uses: pnpm/action-setup@v2.4.0
         name: Install pnpm
         id: pnpm-install
         with:
