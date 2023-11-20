@@ -22,7 +22,7 @@
   "keywords": [],
   "license": "LGPL-3.0-or-later",
   "dependencies": {
-    "raiku-pgs": "0.1.3",
+    "raiku-pgs": "0.1.7",
     "vn-str": "^0.4.0"
   },
   "devDependencies": {
