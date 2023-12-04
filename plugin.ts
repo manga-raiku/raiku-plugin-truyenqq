@@ -1,5 +1,6 @@
-import { type API, defineApi, type ID } from "raiku-pgs/plugin"
-import { CURL, Rankings, Servers } from "src/const"
+import { defineApi } from "raiku-pgs/plugin"
+import type { API, Comic, ID } from "raiku-pgs/plugin"
+import { CURL, Rankings, Servers, TAGS_IS_MANGA } from "src/const"
 import index from "src/runs"
 import General from "src/runs/[general]"
 import BangXepHang from "src/runs/bang-xep-hang/[type]"
@@ -10,9 +11,11 @@ import timKiem from "src/runs/tim-kiem"
 import Slug from "src/runs/truyen-tranh/[slug]"
 import SlugChapChap from "src/runs/truyen-tranh/[slug]-chap-[chap]"
 
-class TruyenQQ implements API {
+class TruyenQQ implements API<true> {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
+
+  public readonly autoFetchComicIsManga = true
 
   async setup() {
     if (AppInfo.extension) {
@@ -28,6 +31,17 @@ class TruyenQQ implements API {
 
   async getComic(zlug: string) {
     return Slug(zlug)
+  }
+
+  async getModeReader(_: string, __: string, comicData: Comic) {
+    if (comicData.genres.some(item => TAGS_IS_MANGA.includes(item.name.toLowerCase()))) {
+      return {
+        scrollingMode: false,
+        rightToLeft: true
+      }
+    }
+
+    return {}
   }
 
   async getComicChapter<Fast extends boolean>(

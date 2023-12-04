@@ -4,6 +4,8 @@ import { withProxyImage } from "src/logic/with-proxy-image"
 
 export const CURL = "https://truyenqqvn.com"
 
+export const TAGS_IS_MANGA = ["manga", "anime", "japanese"]
+
 const replaceHosts = {
   "mangaqq.net": "i200.truyenvua.com",
   "cdnqq.xyz": "i200.truyenvua.com",
